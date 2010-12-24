@@ -4,7 +4,7 @@ class Map
     
   end
   
-  def count_by(item, output)
+  def count_by(item)
     m = "function(){
         emit(this.ITEM.toLowerCase(), 1);
         }"
@@ -17,13 +17,16 @@ class Map
          });
        return sum;
        };"
-    if output then 
-      @collection.map_reduce(m,r, {:out => output})
-    else
-      @collection.map_reduct(m,r)
-    end
+    p options
+    options[:sort] ||= ["_id", :ascending]
+    p options
+    @collection.map_reduce(m,r)
     
   end
+  
+  
+  
+    
   
   
   

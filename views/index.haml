@@ -1,2 +1,1 @@
-- @plays.each do |play|
-  %p= play.title + " by " + play.artist
+= partial(:play, :collection => @plays)

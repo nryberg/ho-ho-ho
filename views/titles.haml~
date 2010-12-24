@@ -1,2 +1,2 @@
-- @results.find().each do |result|
-  %p= result["_id"] + " : " + result["value"].to_s
+%h2= @results.count
+= partial(:title, :collection => @results)
