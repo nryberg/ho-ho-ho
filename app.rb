@@ -34,10 +34,10 @@ get '/city_by_day' do
   @x = "city"
   @y = "day"
   map = Map.new(Play.collection)
-  coll = map.group_by_count(@x, @y)
+  @results = map.group_by_count(@x, @y)
   @cols = map.columns
   @rows = map.rows
-  @results = coll.find({}).sort([["value", -1]])
+#   @results = coll.find({}).sort([["value", -1]])
   haml :x_by_y
   
 end

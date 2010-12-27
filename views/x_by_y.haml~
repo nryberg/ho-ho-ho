@@ -3,15 +3,16 @@
 %p= "Count " + @results.count.to_s
 %p= @cols.join(", ")
 %p= @rows.join(", ")
+%p= @results.keys.join(", ")
+- @results.keys.each do |key|
+  %p= key + " " + @results[key]
 %table
   %th
     - @cols.each do |col|
       %td= col
-  - @rows.each do |row|
+  - @rows.each do |@row|
     %tr
-      %td= row
+      %td= @row
       - @cols.each do |col|
-        %td= col
-   
-- @results.each do |result|
-  %p= result["_id"]["city"]
+        %td= @row.class
+        / %td= @results[@row.to_s + col.to_s]
