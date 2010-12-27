@@ -1,0 +1,17 @@
+%p= "X = " + @x
+%p= "Y = " + @y
+%p= "Count " + @results.count.to_s
+%p= @cols.join(", ")
+%p= @rows.join(", ")
+%table
+  %th
+    - @cols.each do |col|
+      %td= col
+  - @rows.each do |row|
+    %tr
+      %td= row
+      - @cols.each do |col|
+        %td= @results.find({"_id." + @x => row, "_id." + @y => col}) 
+   
+- @results.each do |result|
+  %p= result["_id"]["city"]

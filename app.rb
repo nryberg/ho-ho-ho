@@ -19,6 +19,7 @@ get '/titles' do
   map = Map.new(Play.collection)
   coll = map.count_by("title")
   @results = coll.find({}).sort([["value", -1]])
+#   p map.collection_name
   haml :titles
 end
 
@@ -29,7 +30,18 @@ get '/cities' do
   haml :cities
 end
 
-
+get '/city_by_day' do
+  @x = "city"
+  @y = "day"
+  map = Map.new(Play.collection)
+  coll = map.group_by_count(@x, @y)
+  @cols = map.columns
+  @rows = map.rows
+  @results = coll.find({}).sort([["value", -1]])
+  haml :x_by_y
+  
+end
+  
 
 get '/hi' do
   "Hello World!"
