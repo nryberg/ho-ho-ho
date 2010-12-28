@@ -1,8 +1,8 @@
 %html
   %head
-    %title SINATRA BOOK
-    / %link{:rel=>"stylesheet", :href=>"/stylesheets/blueprint/screen.css", :type=>"text/css", :media=>"screen, projection"}
-    %link{:rel=>"stylesheet", :href=>"/stylesheets/blueprint/print.css", :type=>"text/css", :media=>"print"}
+    %title Home for the holidays
+    %link{:rel=>"stylesheet", :href=>"stylesheets/blueprint/screen.css", :type=>"text/css", :media=>"screen, projection"}
+    %link{:rel=>"stylesheet", :href=>"stylesheets/blueprint/print.css", :type=>"text/css", :media=>"print"}
   %body
     .container
       %h2 Body

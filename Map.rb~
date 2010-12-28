@@ -1,5 +1,5 @@
 class Map
-  attr_reader :collection, :collection_name, :columns, :rows
+  attr_reader :collection, :collection_name, :columns, :rows, :table, :stat_rows
   def initialize(collection)
     @collection = collection
     
@@ -33,36 +33,58 @@ class Map
    @columns = output.distinct("_id." + item2)
    @rows = output.distinct("_id." + item1)
    
-     
-   # DONE : Changed this output to a usable hash, rather than the opaque collection that's hard to query and sort
-   # NPR, 12/26/2010
-   # Not convinced this is the best route, but on the other hand, don't want to be hitting db all the time.
-   
-   # Route B - Use the power of Mongomapper.  You've been ingoring it, you know you have.
-   # Push the result out to a known table, called, um, results.  Work with it from there.
-   # 
-   
-   table = Hash.new
-  
-#    @rows.each do |@row|
-#      @columns.each do |col|
-#        value = output.find({"_id." + item1 => @row, "_id." + item2 => col}, {:fields => ["value"]})
-#        
-#        table[@row.to_s + col.to_s] = value
-#      end
-#    end
-   
+   @table = Hash.new
+ 
    output.find().each do |line|
      row_col = line["_id"]
      row = row_col[item1]
      col = row_col[item2]
-     table[[row, col]] = line["value"].to_i
+     @table[[row, col]] = line["value"].to_i
    end
-   p table 
-   return table
+   
+   
+   return @table
   end
     
-             
+               
+  def table_stats
+    @stat_rows = ["min", "max", "total", "mean", "median", "stdev"]
+    @stats = Hash.new
+    @columns.each do |col|
+      @numbers = Array.new
+      @rows.each do |row|
+        @numbers << @table[[row,col]]
+      end
+      
+      # Remove nils
+      @numbers.delete_if {|x| x == nil}
+      @numbers.sort!
+      @stats[["min", col]] = @numbers[0]
+      @stats[["max", col]] = @numbers[-1]
+      @stats[["total", col]] = @numbers.sum
+      @stats[["mean", col]] = @numbers.sum / @numbers.length
+      
+      #median takes a little more work.
+      median = 0
+      n = (@numbers.length - 1) / 2 # Middle of the array
+      n2 = (@numbers.length) / 2 # Other middle of the array.
+                                                # Used only if amount in array is even
+      if @numbers.length % 2 == 0 # If number is even
+       median = (@numbers[n] + @numbers[n2]) / 2
+      else
+       median = @numbers[n]
+      end
+      @stats[["median", col]] = median
+      
+      @stats[["stdev", col]] = standard_deviation(@numbers)
+      
+        
+    end
+      
+    return @stats
+    
+  end
+    
   
   def reduce_count()
      r = "function(k, vals){
@@ -74,7 +96,27 @@ class Map
        };"
   end
     
-    
+  def variance(population)
+    n = 0
+    mean = 0.0
+    s = 0.0
+    population.each { |x|
+      n = n + 1
+      delta = x - mean
+      mean = mean + (delta / n)
+      s = s + delta * (x - mean)
+    }
+    # if you want to calculate std deviation
+    # of a sample change this to "s / (n-1)"
+    return s / n
+  end
+
+  # calculate the standard deviation of a population
+  # accepts: an array, the population
+  # returns: the standard deviation
+  def standard_deviation(population)
+    Math.sqrt(variance(population))
+  end
   
   
   

@@ -1,1 +1,1 @@
-%p= title["_id"] + " : " + "%d" % title["value"]
+%p= title["_id"] + " : " + "%d" % titlecase(title["value"])

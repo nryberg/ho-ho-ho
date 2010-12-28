@@ -1,4 +1,5 @@
-%h2p= @x + " by " + @y
+%h2= @x + " by " + @y + ", " + @method
+
 %table
   %th
     - @cols.each do |col|
@@ -9,3 +10,18 @@
       - @cols.each do |col|
         %td= @results[[@row, col]]
         / %td= @results[@row.to_s + col.to_s]
+%p
+%h3 Statistics
+%p= @stats.to_s
+%table
+  %th
+    - @cols.each do |col|
+      %td= col
+  - @stat_rows.each do |@row|
+    %tr
+      %td= @row
+      - @cols.each do |col|
+        / %td= @row + " " + col.to_s
+        %td= @stats[[@row, col]] ||= "-"
+        / %td= @results[@row.to_s + col.to_s]
+        

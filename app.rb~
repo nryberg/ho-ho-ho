@@ -6,6 +6,7 @@ require 'mongo_mapper'
 require 'Play'
 require 'Result'
 require 'Map'
+include 'helpers'
 
 helpers Sinatra::Partials
 
@@ -30,18 +31,25 @@ get '/cities' do
   haml :cities
 end
 
-get '/x_by_y/:x/:y' do
+get '/x_by_y' do
   @x = params[:x]
   @y = params[:y]
-  map = Map.new(Play.collection)
-  @results = map.group_by_count(@x, @y)
-  @cols = map.columns
-  @rows = map.rows
+  @method = params[:method]
+  @map = Map.new(Play.collection)
+  case @method 
+    when "count"
+      @results = @map.group_by_count(@x, @y)
+  end
+  @cols = @map.columns
+  @rows = @map.rows
+  @stats = @map.table_stats
+  @stat_rows = @map.stat_rows
 #   @results = coll.find({}).sort([["value", -1]])
   haml :x_by_y
   
 end
-  
+
+
 
 get '/hi' do
   "Hello World!"
