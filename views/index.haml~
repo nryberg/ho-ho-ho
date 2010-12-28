@@ -1,1 +1,2 @@
-= partial(:title_partial, :collection => @plays)
+%a{:href=>"x_by_y?x=city&y=day"} City by day
+%a{:href=>"x_by_y?x=day&y=city"} Day by City

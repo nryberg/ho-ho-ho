@@ -30,7 +30,7 @@ get '/cities' do
   haml :cities
 end
 
-get '/x_by_y' do
+get '/x_by_y/:x/:y' do
   @x = params[:x]
   @y = params[:y]
   map = Map.new(Play.collection)

@@ -1,11 +1,4 @@
-%p= "X = " + @x
-%p= "Y = " + @y
-%p= "Count " + @results.count.to_s
-%p= @cols.join(", ")
-%p= @rows.join(", ")
-%p= @results.keys.join(", ")
-- @results.keys.each do |key|
-  %p= key + " " + @results[key].to_s
+%h2= @x + " by " + @y
 %table
   %th
     - @cols.each do |col|
@@ -14,5 +7,5 @@
     %tr
       %td= @row
       - @cols.each do |col|
-        %td= @row.class
+        %td= @results[[@row, col]]
         / %td= @results[@row.to_s + col.to_s]

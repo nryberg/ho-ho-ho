@@ -58,6 +58,7 @@ class Map
      col = row_col[item2]
      table[[row, col]] = line["value"].to_i
    end
+   p table 
    return table
   end
     
