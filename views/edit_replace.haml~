@@ -1,0 +1,10 @@
+%form{ :action => "edit_replace/" + @replacement.object_id.to_s, :method => "post"}
+  %fieldset
+    %ol
+      %li
+        %label{:for => "from"} From:
+        %input{:type => "text", :name => "from", :class => "text"}
+      %li
+        %label{:for => "to"} To:
+        %input{:type => "text", :name => "To", :class => "text"}
+    %input{:type => "submit", :value => "Save", :class => "button"}

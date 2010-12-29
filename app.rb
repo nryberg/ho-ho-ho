@@ -4,6 +4,7 @@ require 'sinatra'
 require 'partials'
 require 'mongo_mapper'
 require 'Play'
+require 'Replacement'
 require 'Result'
 require 'Map'
 require 'helpers'
@@ -19,7 +20,8 @@ end
 get '/titles' do
   map = Map.new(Play.collection)
   coll = map.count_by("title")
-  @results = coll.find({}).sort([["value", -1]])
+  @results = coll.find({})
+#   @results = coll.find({}).sort([["value", -1]])
 #   p map.collection_name
   haml :titles
 end
@@ -53,4 +55,19 @@ end
 
 get '/hi' do
   "Hello World!"
+end
+
+get '/replacement/new' do
+  rep = {:replacement => {"from" => params[:title], "to" => "insert title"}}
+  in_case = Replacement.create(rep)
+  p params[:title]
+  @replacement = Replacement.where(:from => params[:title]).limit(1) || in_case 
+  
+  haml :edit_replace
+end
+
+post '/edit_replace/:id' do
+  p params[:id]
+  @replacement = Replacement.find(params[:id])
+  @replacement.update_attributes(params[:replacement])
 end

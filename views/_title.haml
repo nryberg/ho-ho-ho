@@ -1,1 +1,3 @@
-%p= titlecase(title["_id"]) + " : " + "%d" % title["value"]
+%div
+  %a{:href=>"edit_replace?title=" + title["_id"]} Edit
+  %span= title["_id"] + " : " + "%d" % title["value"]
