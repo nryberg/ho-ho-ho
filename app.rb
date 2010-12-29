@@ -57,8 +57,28 @@ get '/hi' do
   "Hello World!"
 end
 
-get '/replacement/new' do
-  rep = {:replacement => {"from" => params[:title], "to" => "insert title"}}
+get '/replacements/new' do
+  haml :"replacements/new"
+end
+
+post '/replacements/create' do
+  p params[:replacement]
+  @replacement = Replacement.create(params[:replacement])
+  @replacement.save
+  redirect "/replacements/" + @replacement.id.to_s
+end
+
+get '/replacements/:id' do
+  @replacement = Replacement.find(params[:id])
+  haml :"replacements/show"
+end
+
+get '/replace/find/:search' do
+  
+  
+end
+get '/replacements/:id/edit' do
+  rep = {"from" => params[:title], "to" => "insert title"}
   in_case = Replacement.create(rep)
   p params[:title]
   @replacement = Replacement.where(:from => params[:title]).limit(1) || in_case 
