@@ -1,2 +1,3 @@
-%p= @replacement.from
-%p= @replacement.to
+%p= "From: " + @replacement.from
+%p= "To: " + @replacement.to
+%a{:href => "/replacements/edit/" + @replacement._id.to_s} Edit

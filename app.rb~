@@ -68,26 +68,37 @@ post '/replacements/create' do
   redirect "/replacements/" + @replacement.id.to_s
 end
 
+post '/replacements/update/:id' do
+  @replacement = Replacement.find(params[:id])
+  if @replacement.save 
+    redirect "/replacements/" + @replacement._id.to_s
+  end
+end
+
 get '/replacements/:id' do
   @replacement = Replacement.find(params[:id])
   haml :"replacements/show"
 end
 
-get '/replace/find/:search' do
-  
-  
-end
-get '/replacements/:id/edit' do
-  rep = {"from" => params[:title], "to" => "insert title"}
-  in_case = Replacement.create(rep)
-  p params[:title]
-  @replacement = Replacement.where(:from => params[:title]).limit(1) || in_case 
-  
-  haml :edit_replace
+get '/replacements/edit/:id' do 
+  @replacement = Replacement.find(params[:id])
+  haml :"replacements/edit"
 end
 
-post '/edit_replace/:id' do
-  p params[:id]
-  @replacement = Replacement.find(params[:id])
-  @replacement.update_attributes(params[:replacement])
+get '/replacements/find/:search' do
+#   @replacement = Replacement.where(:from => params[:search]).all
+  
+  if @replacement.nil? then 
+    
+#     @replacement = {"replacement" => {"from" => params[:search], "to" => ""}}
+    @replacement = Replacement.create({"from" => params[:search], "to" => ""})
+    @replacement.save
+    
+   
+  end
+  p @replacement._id
+  
+  haml :'/replacements/edit'
+  
+  
 end
