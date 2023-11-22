@@ -1,3 +1,0 @@
-%div
-  %a{:href=>"/replacements/find/?search=" + title["_id"]} Edit
-  %span= title["_id"] + " : " + "%d" % title["value"]

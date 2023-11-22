@@ -1,2 +1,0 @@
-%p= "From: " + @replacement.from
-%p= "To: " + @replacement.to

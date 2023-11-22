@@ -1,4 +1,0 @@
-class Result 
-  include MongoMapper::Document
-  
-end

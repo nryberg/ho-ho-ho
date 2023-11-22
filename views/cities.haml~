@@ -1,2 +1,0 @@
-%h2= @results.count
-= partial(:title, :collection => @results)

@@ -1,1 +1,0 @@
-%p= plays.title + " by " + plays.artist
