@@ -18,12 +18,8 @@
         {{- partial "translation_list.html" . -}}
     </div>
     {{- end }}
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
 </header>
 
-
-<h1>Fred</h1>
 <div id="searchbox">
     <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
         aria-label="search" type="search" autocomplete="off" maxlength="64">
