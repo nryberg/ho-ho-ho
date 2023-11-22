@@ -2,49 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>/</loc>
     <lastmod>2023-11-19T06:08:43-06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2023-11-19T06:08:43-06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-11-19T06:08:43-06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/957bigfm/</loc>
+    <loc>/stations/957bigfm/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/987theriver/</loc>
+    <loc>/stations/987theriver/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/litefm/</loc>
+    <loc>/stations/litefm/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/kg95/</loc>
+    <loc>/stations/kg95/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/kool108/</loc>
+    <loc>/stations/kool108/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/kost1035/</loc>
+    <loc>/stations/kost1035/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/magic107/</loc>
+    <loc>/stations/magic107/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/</loc>
+    <loc>/stations/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/stations/star1021/</loc>
+    <loc>/stations/star1021/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

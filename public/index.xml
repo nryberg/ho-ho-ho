@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ho Ho Ho!</title>
-    <link>https://examplesite.com/</link>
+    <link>/</link>
     <description>Recent content on Ho Ho Ho!</description>
     <image>
       <title>Ho Ho Ho!</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>papermod-cover.png</url>
+      <link>papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Nov 2023 06:08:43 -0600</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 06:08:43 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://examplesite.com/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Sun, 19 Nov 2023 06:08:43 -0600</pubDate>
       
-      <guid>https://examplesite.com/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Tiger Tail - the simple tool that converts your data into a static website through the magic of Hugo, Netlify, and GitHub.</description>
     </item>
     
     <item>
       <title>About Ho Ho Ho!</title>
-      <link>https://examplesite.com/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/about/</guid>
+      <guid>/about/</guid>
       <description>Why this site exists</description>
     </item>
     
     <item>
       <title>95.7 BIG FM - Milwaukee, WI</title>
-      <link>https://examplesite.com/stations/957bigfm/</link>
+      <link>/stations/957bigfm/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/957bigfm/</guid>
+      <guid>/stations/957bigfm/</guid>
       <description>WRIT-FM is a radio station in Milwaukee, Wisconsin, owned by iHeartMedia, Inc.. It carries a variety hits format, switching to Christmas music for much of November and December. The rest of the year, WRIT focuses on hits from the 1980s and 1990s, along with a few &amp;rsquo;60s, &amp;rsquo;70s and early 2000s titles.
 Wikipedia
 First Aired: 1961
@@ -44,10 +44,10 @@ Top Ten Tracks Track Plays Santa Claus Is Coming To Town by The Jackson 5 9 Rudo
     
     <item>
       <title>98.7 - The River - Savannah, GA</title>
-      <link>https://examplesite.com/stations/987theriver/</link>
+      <link>/stations/987theriver/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/987theriver/</guid>
+      <guid>/stations/987theriver/</guid>
       <description> WYKZ is an adult contemporary radio station owned by iHeartMedia, Inc. and licensed to Beaufort, South Carolina, with the branding &amp;ldquo;98.7 The River&amp;rdquo; The station&amp;rsquo;s studio is located on Alfred St. in Savannah, Georgia, and the transmitter is located near Sun City, South Carolina.
 Wikipedia
 First Aired: 1962
@@ -56,10 +56,10 @@ Top Ten Tracks Track Plays Sleigh Ride by The Ronettes 10 Jingle Bells by Frank 
     
     <item>
       <title>99.9 Lite FM - Chicago, IL</title>
-      <link>https://examplesite.com/stations/litefm/</link>
+      <link>/stations/litefm/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/litefm/</guid>
+      <guid>/stations/litefm/</guid>
       <description>WLIT-FM is a radio station in Chicago, Illinois, owned by iHeartMedia, Inc. and branded as 93.9 Lite FM. The station has an adult contemporary format playing mostly music from the 1980s to the present day. The station studios are located at the Illinois Center complex on Michigan Avenue in Downtown Chicago, and the transmitter is atop the Willis Tower.
 Wikipedia
 First Aired: 1958
@@ -68,10 +68,10 @@ Top Ten Tracks Track Plays All I Want for Christmas Is You by Mariah Carey 11 Ha
     
     <item>
       <title>KG 95.5 - Sioux City, IA</title>
-      <link>https://examplesite.com/stations/kg95/</link>
+      <link>/stations/kg95/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/kg95/</guid>
+      <guid>/stations/kg95/</guid>
       <description>KGLI is a radio station broadcasting an adult contemporary format. The station serves Sioux City, Iowa, United States, and is owned by iHeartMedia.
 Wikipedia
 First Aired: 1974
@@ -80,10 +80,10 @@ Top Ten Tracks Track Plays Sleigh Ride by The Ronettes 9 All I Want for Christma
     
     <item>
       <title>KOOL 108 - Minneapolis/St. Paul, MN</title>
-      <link>https://examplesite.com/stations/kool108/</link>
+      <link>/stations/kool108/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/kool108/</guid>
+      <guid>/stations/kool108/</guid>
       <description> KOOL 108 is Minnesota&amp;rsquo;s Christmas Station. KOOL 108 plays Minnesota&amp;rsquo;s favorite Christmas songs all year long. KOOL 108 is also the home of Minnesota&amp;rsquo;s largest Christmas party, the KOOL 108 Jingle Ball.
 Wikipedia
 First Aired: 1968
@@ -92,10 +92,10 @@ Top Ten Tracks Track Plays Sleigh Ride by Johnny Mathis 9 Ring Christmas Bells b
     
     <item>
       <title>KOST 103.5 - Los Angeles, CA</title>
-      <link>https://examplesite.com/stations/kost1035/</link>
+      <link>/stations/kost1035/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/kost1035/</guid>
+      <guid>/stations/kost1035/</guid>
       <description> KOST is a commercial radio station in Los Angeles, California. Owned by iHeartMedia, it broadcasts an adult contemporary radio format, switching to Christmas music in early November and playing through New Year&amp;rsquo;s Eve. Its studios are co-located with its sister stations on West Olive Avenue in Burbank, CA, and its transmitter is located atop Mount Wilson.
 Wikipedia
 First Aired: 1957
@@ -104,10 +104,10 @@ Top Ten Tracks Track Plays It&amp;rsquo;s the Most Wonderful Time of the Year by
     
     <item>
       <title>Magic 107 - Orlando, FL</title>
-      <link>https://examplesite.com/stations/magic107/</link>
+      <link>/stations/magic107/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/magic107/</guid>
+      <guid>/stations/magic107/</guid>
       <description>WMGF is a commercial radio station in Mount Dora, Florida, broadcasting to the Orlando area on 107.7 FM. WMGF airs an adult contemporary music format branded as &amp;ldquo;Magic 107.7&amp;rdquo;. The station&amp;rsquo;s studios are located in Maitland and the transmitter tower is in Orange City.
 Wikipedia
 First Aired: 1966
@@ -116,10 +116,10 @@ Top Ten Tracks Track Plays All I Want for Christmas Is You by Mariah Carey 10 Fe
     
     <item>
       <title>Star 102.1 - Dallas and Fort Worth, TX</title>
-      <link>https://examplesite.com/stations/star1021/</link>
+      <link>/stations/star1021/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/stations/star1021/</guid>
+      <guid>/stations/star1021/</guid>
       <description>KDGE is a radio station licensed to Fort Worth, Texas and serving the Dallas/Fort Worth Metroplex. KDGE is currently owned by iHeartMedia, Inc. and broadcasts a modern rock format to the Dallas/Fort Worth Metroplex. The station&amp;rsquo;s studios are located along Dallas Parkway in Farmers Branch (although it has a Dallas address), and the transmitter site is in Cedar Hill.
 Wikipedia
 First Aired: 1959
