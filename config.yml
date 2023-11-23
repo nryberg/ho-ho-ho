@@ -162,7 +162,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/nryberg/ho-ho-ho/tree/content"
+        URL: "https://github.com/nryberg/ho-ho-ho/tree/master/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
