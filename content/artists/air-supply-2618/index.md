@@ -3,10 +3,11 @@ title: "Air Supply"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Sleigh Ride](/songs/sleigh-ride) | 46
-[Winter Wonderland](/songs/winter-wonderland) | 6
+[Sleigh Ride](/songs/sleigh-ride) | 63
+[Winter Wonderland](/songs/winter-wonderland) | 11
 
-{{< more >}}

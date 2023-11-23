@@ -3,11 +3,12 @@ title: "Gene Autry"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Here Comes Santa Claus (Right Down Santa Claus Lane)](/songs/here-comes-santa-claus-right-down-santa-claus-lane) | 72
-[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 36
-[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 4
+[Here Comes Santa Claus (Right Down Santa Claus Lane)](/songs/here-comes-santa-claus-right-down-santa-claus-lane) | 98
+[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 47
+[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 7
 
-{{< more >}}

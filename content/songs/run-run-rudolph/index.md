@@ -3,9 +3,10 @@ title: "Run Run Rudolph"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Chuck Berry](/artists/chuck-berry-644) | 45
+[Chuck Berry](/artists/chuck-berry-644) | 69
 
-{{< more >}}

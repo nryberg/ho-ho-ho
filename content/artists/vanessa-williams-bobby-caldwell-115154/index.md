@@ -3,9 +3,10 @@ title: "Vanessa Williams & Bobby Caldwell"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Baby, It's Cold Outside](/songs/baby-its-cold-outside) | 5
+[Baby, It's Cold Outside](/songs/baby-its-cold-outside) | 7
 
-{{< more >}}

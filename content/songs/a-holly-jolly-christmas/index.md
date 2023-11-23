@@ -3,11 +3,12 @@ title: "A Holly Jolly Christmas"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Lady A](/artists/lady-a-33498) | 29
-[Johnny Mathis](/artists/johnny-mathis-14581) | 6
+[Lady A](/artists/lady-a-33498) | 45
+[Johnny Mathis](/artists/johnny-mathis-14581) | 8
 [Alan Jackson](/artists/alan-jackson-69978) | 2
 
-{{< more >}}

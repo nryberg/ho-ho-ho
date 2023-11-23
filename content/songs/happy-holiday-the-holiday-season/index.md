@@ -3,9 +3,10 @@ title: "Happy Holiday / The Holiday Season"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Andy Williams](/artists/andy-williams-16425) | 2
+[Andy Williams](/artists/andy-williams-16425) | 8
 
-{{< more >}}

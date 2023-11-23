@@ -3,10 +3,11 @@ title: "John Tesh"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Carol Of The Bells](/songs/carol-of-the-bells) | 30
+[Carol Of The Bells](/songs/carol-of-the-bells) | 43
 [Carol of the Bells](/songs/carol-of-the-bells) | 3
 
-{{< more >}}

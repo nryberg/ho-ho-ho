@@ -3,9 +3,10 @@ title: "Jack Johnson"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Rudolph The Red Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 13
+[Rudolph The Red Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 15
 
-{{< more >}}

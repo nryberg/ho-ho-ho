@@ -3,9 +3,10 @@ title: "Merry Christmas, Happy Holidays"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[*NSYNC](/artists/nsync-31882) | 8
+[*NSYNC](/artists/nsync-31882) | 9
 
-{{< more >}}

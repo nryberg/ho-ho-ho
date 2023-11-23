@@ -3,9 +3,10 @@ title: "Meghan Trainor"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[White Christmas](/songs/white-christmas) | 3
+[White Christmas](/songs/white-christmas) | 5
 
-{{< more >}}

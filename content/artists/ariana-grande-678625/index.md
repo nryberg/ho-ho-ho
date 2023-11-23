@@ -3,10 +3,11 @@ title: "Ariana Grande"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
 [Santa Tell Me](/songs/santa-tell-me) | 7
-[Last Christmas](/songs/last-christmas) | 6
+[Last Christmas](/songs/last-christmas) | 7
 
-{{< more >}}

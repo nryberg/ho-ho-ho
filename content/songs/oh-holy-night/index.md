@@ -3,9 +3,10 @@ title: "Oh Holy Night"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kelly Clarkson](/artists/kelly-clarkson-34788) | 46
+[Kelly Clarkson](/artists/kelly-clarkson-34788) | 56
 
-{{< more >}}

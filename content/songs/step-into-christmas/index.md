@@ -3,9 +3,10 @@ title: "Step Into Christmas"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Elton John](/artists/elton-john-5041) | 9
+[Elton John](/artists/elton-john-5041) | 12
 
-{{< more >}}

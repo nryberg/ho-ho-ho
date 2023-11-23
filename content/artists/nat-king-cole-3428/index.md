@@ -3,13 +3,15 @@ title: "Nat King Cole"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
+[O Holy Night](/songs/o-holy-night) | 16
 [Adeste Fidelis (O Come All Ye Faithful)](/songs/adeste-fidelis-o-come-all-ye-faithful) | 10
-[Deck the Halls](/songs/deck-the-halls) | 6
-[O Holy Night](/songs/o-holy-night) | 4
-[Caroling, Caroling](/songs/caroling-caroling) | 1
+[Deck the Halls](/songs/deck-the-halls) | 9
+[The Christmas Song (Chestnuts Roasting On An Open Fire)](/songs/the-christmas-song-chestnuts-roasting-on-an-open-fire) | 3
+[Caroling, Caroling](/songs/caroling-caroling) | 2
 [Caroling, Caroling](/songs/caroling-caroling) | 1
 
-{{< more >}}

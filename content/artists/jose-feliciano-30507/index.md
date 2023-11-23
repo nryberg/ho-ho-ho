@@ -3,9 +3,10 @@ title: "José Feliciano"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Feliz Navidad](/songs/feliz-navidad) | 103
+[Feliz Navidad](/songs/feliz-navidad) | 146
 
-{{< more >}}

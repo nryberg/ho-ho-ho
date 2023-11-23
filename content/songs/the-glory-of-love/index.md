@@ -3,9 +3,10 @@ title: "The Glory of Love"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Jimmy Durante](/artists/jimmy-durante-13750) | 11
+[Jimmy Durante](/artists/jimmy-durante-13750) | 24
 
-{{< more >}}

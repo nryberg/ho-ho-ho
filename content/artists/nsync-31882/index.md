@@ -3,10 +3,11 @@ title: "*NSYNC"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
 [Merry Christmas, Happy Holidays](/songs/merry-christmas-happy-holidays) | 6
-[Merry Christmas, Happy Holidays](/songs/merry-christmas-happy-holidays) | 2
+[Merry Christmas, Happy Holidays](/songs/merry-christmas-happy-holidays) | 3
 
-{{< more >}}

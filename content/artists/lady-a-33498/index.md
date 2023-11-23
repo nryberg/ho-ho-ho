@@ -3,9 +3,10 @@ title: "Lady A"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[A Holly Jolly Christmas](/songs/a-holly-jolly-christmas) | 29
+[A Holly Jolly Christmas](/songs/a-holly-jolly-christmas) | 45
 
-{{< more >}}

@@ -3,9 +3,10 @@ title: "You Make It Feel Like Christmas"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Gwen Stefani](/artists/gwen-stefani-36636) | 2
+[Gwen Stefani](/artists/gwen-stefani-36636) | 3
 
-{{< more >}}

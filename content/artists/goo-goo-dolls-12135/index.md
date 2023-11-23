@@ -3,10 +3,11 @@ title: "Goo Goo Dolls"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 20
+[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 34
 [Iris](/songs/iris) | 1
 
-{{< more >}}

@@ -3,9 +3,10 @@ title: "The A-Strings"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Sleigh Ride](/songs/sleigh-ride) | 42
+[Sleigh Ride](/songs/sleigh-ride) | 59
 
-{{< more >}}

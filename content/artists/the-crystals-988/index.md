@@ -3,10 +3,11 @@ title: "The Crystals"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town) | 54
-[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 2
+[Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town) | 69
+[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 3
 
-{{< more >}}

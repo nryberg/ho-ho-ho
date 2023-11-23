@@ -3,10 +3,11 @@ title: "Kimberley Locke"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Up On The Housetop](/songs/up-on-the-housetop) | 22
-[Frosty The Snowman](/songs/frosty-the-snowman) | 14
+[Frosty The Snowman](/songs/frosty-the-snowman) | 29
+[Up On The Housetop](/songs/up-on-the-housetop) | 23
 
-{{< more >}}

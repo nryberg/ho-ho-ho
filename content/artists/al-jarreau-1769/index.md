@@ -3,9 +3,10 @@ title: "Al Jarreau"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[The Christmas Song](/songs/the-christmas-song) | 17
+[The Christmas Song](/songs/the-christmas-song) | 21
 
-{{< more >}}

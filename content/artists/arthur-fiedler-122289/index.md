@@ -3,9 +3,10 @@ title: "Arthur Fiedler"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Sleigh Ride](/songs/sleigh-ride) | 21
+[Sleigh Ride](/songs/sleigh-ride) | 23
 
-{{< more >}}

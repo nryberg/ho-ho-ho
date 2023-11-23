@@ -3,9 +3,10 @@ title: "Where Are You Christmas"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Faith Hill](/artists/faith-hill-58019) | 55
+[Faith Hill](/artists/faith-hill-58019) | 78
 
-{{< more >}}

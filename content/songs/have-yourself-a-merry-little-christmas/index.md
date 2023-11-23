@@ -3,25 +3,27 @@ title: "Have Yourself a Merry Little Christmas"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Frank Sinatra](/artists/frank-sinatra-739) | 43
-[Luther Vandross](/artists/luther-vandross-3402) | 22
-[Goo Goo Dolls](/artists/goo-goo-dolls-12135) | 20
-[Sarah McLachlan](/artists/sarah-mclachlan-89556) | 15
-[Andy Williams](/artists/andy-williams-16425) | 13
-[Carpenters](/artists/carpenters-39303) | 13
-[Barbra Streisand](/artists/barbra-streisand-31892) | 11
-[James Taylor](/artists/james-taylor-5709) | 10
-[John Legend](/artists/john-legend-36643) | 8
+[Frank Sinatra](/artists/frank-sinatra-739) | 60
+[Goo Goo Dolls](/artists/goo-goo-dolls-12135) | 34
+[Sarah McLachlan](/artists/sarah-mclachlan-89556) | 29
+[Luther Vandross](/artists/luther-vandross-3402) | 27
+[James Taylor](/artists/james-taylor-5709) | 20
+[Carpenters](/artists/carpenters-39303) | 19
+[Andy Williams](/artists/andy-williams-16425) | 15
+[Barbra Streisand](/artists/barbra-streisand-31892) | 14
+[John Legend](/artists/john-legend-36643) | 13
+[Coldplay](/artists/coldplay-1648) | 12
+[Barry Manilow](/artists/barry-manilow-31897) | 10
+[Kelsea Ballerini](/artists/kelsea-ballerini-30601760) | 9
+[Josh Groban](/artists/josh-groban-58260) | 8
 [Amy Grant](/artists/amy-grant-3053) | 7
-[Coldplay](/artists/coldplay-1648) | 7
-[Barry Manilow](/artists/barry-manilow-31897) | 5
-[Kenny G](/artists/kenny-g-7789) | 5
-[Kelsea Ballerini](/artists/kelsea-ballerini-30601760) | 3
+[Kenny G](/artists/kenny-g-7789) | 7
+[Sam Smith](/artists/sam-smith-423762) | 5
 [David Archuleta & Charice Pempengco](/artists/david-archuleta-charice-pempengco-118303) | 2
-[Josh Groban](/artists/josh-groban-58260) | 2
-[Sam Smith](/artists/sam-smith-423762) | 2
+[Tony Bennett](/artists/tony-bennett-2564) | 1
 
-{{< more >}}

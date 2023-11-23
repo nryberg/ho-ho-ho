@@ -3,11 +3,12 @@ title: "Michael Jackson"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[The Girl Is Mine](/songs/the-girl-is-mine) | 3
-[Bad](/songs/bad) | 1
+[The Girl Is Mine](/songs/the-girl-is-mine) | 5
 [Human Nature](/songs/human-nature) | 1
+[Bad](/songs/bad) | 1
 
-{{< more >}}

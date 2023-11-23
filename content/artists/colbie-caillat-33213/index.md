@@ -3,9 +3,10 @@ title: "Colbie Caillat"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Winter Wonderland](/songs/winter-wonderland) | 24
+[Winter Wonderland](/songs/winter-wonderland) | 27
 
-{{< more >}}

@@ -3,9 +3,10 @@ title: "Katy Perry"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Cozy Little Christmas](/songs/cozy-little-christmas) | 10
+[Cozy Little Christmas](/songs/cozy-little-christmas) | 15
 
-{{< more >}}

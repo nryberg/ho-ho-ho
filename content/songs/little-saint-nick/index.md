@@ -3,9 +3,10 @@ title: "Little Saint Nick"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Beach Boys](/artists/the-beach-boys-3455) | 3
+[The Beach Boys](/artists/the-beach-boys-3455) | 4
 
-{{< more >}}

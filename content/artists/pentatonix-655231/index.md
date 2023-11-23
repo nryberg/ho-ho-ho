@@ -3,11 +3,12 @@ title: "Pentatonix"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Please Santa Please](/songs/please-santa-please) | 10
+[Please Santa Please](/songs/please-santa-please) | 15
+[Joy to the World](/songs/joy-to-the-world) | 3
 [Winter Wonderland / Don't Worry Be Happy](/songs/winter-wonderland-dont-worry-be-happy) | 1
-[Joy to the World](/songs/joy-to-the-world) | 1
 
-{{< more >}}

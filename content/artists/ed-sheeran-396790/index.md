@@ -3,11 +3,12 @@ title: "Ed Sheeran"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Merry Christmas](/songs/merry-christmas) | 7
-[Shape of You](/songs/shape-of-you) | 1
+[Merry Christmas](/songs/merry-christmas) | 9
 [Eyes Closed](/songs/eyes-closed) | 1
+[Shape of You](/songs/shape-of-you) | 1
 
-{{< more >}}

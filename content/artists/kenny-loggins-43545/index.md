@@ -3,9 +3,10 @@ title: "Kenny Loggins"
 ShowToc: false
 ---
 
+{{< more >}}
+
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Celebrate Me Home](/songs/celebrate-me-home) | 1
+[Celebrate Me Home](/songs/celebrate-me-home) | 2
 
-{{< more >}}
