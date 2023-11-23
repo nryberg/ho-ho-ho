@@ -155,16 +155,16 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
+          url: "https://github.com/nryberg/ho-ho-ho"
         - name: KoFi
           url: "https://ko-fi.com/adityatelange"
         - name: Rss
           url: "index.xml"
 
-    editPost:
-        URL: "https://github.com/nryberg/ho-ho-ho/tree/master/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    # editPost:
+    #     URL: "https://github.com/nryberg/ho-ho-ho/tree/master/content"
+    #     Text: "Suggest Changes" # edit text
+    #     appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"
