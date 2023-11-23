@@ -1,11 +1,11 @@
 ---
-title: John Mellencamp
+title: "John Mellencamp"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Small Town|1
+----- | -----: 
+Small Town | 1
 
 {{< more >}}

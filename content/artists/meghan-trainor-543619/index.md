@@ -1,11 +1,11 @@
 ---
-title: Meghan Trainor
+title: "Meghan Trainor"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-White Christmas|3
+----- | -----: 
+White Christmas | 3
 
 {{< more >}}

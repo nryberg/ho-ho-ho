@@ -1,11 +1,11 @@
 ---
-title: Tracy Chapman
+title: "Tracy Chapman"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Fast Car|1
+----- | -----: 
+Fast Car | 1
 
 {{< more >}}

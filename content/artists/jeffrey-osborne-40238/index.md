@@ -1,11 +1,11 @@
 ---
-title: Jeffrey Osborne
+title: "Jeffrey Osborne"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-This Christmas|2
+----- | -----: 
+This Christmas | 2
 
 {{< more >}}

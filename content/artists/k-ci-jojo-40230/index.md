@@ -1,11 +1,11 @@
 ---
-title: K-Ci & JoJo
+title: "K-Ci & JoJo"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-All My Life|1
+----- | -----: 
+All My Life | 1
 
 {{< more >}}

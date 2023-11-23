@@ -1,11 +1,11 @@
 ---
-title: Christina Aguilera
+title: "Christina Aguilera"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-This Christmas|25
+----- | -----: 
+This Christmas | 25
 
 {{< more >}}

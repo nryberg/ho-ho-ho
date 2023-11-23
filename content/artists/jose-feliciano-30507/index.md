@@ -1,11 +1,11 @@
 ---
-title: José Feliciano
+title: "José Feliciano"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Feliz Navidad|103
+----- | -----: 
+Feliz Navidad | 103
 
 {{< more >}}

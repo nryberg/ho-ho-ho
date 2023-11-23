@@ -1,11 +1,11 @@
 ---
-title: Frankie Goes to Hollywood
+title: "Frankie Goes to Hollywood"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Relax|1
+----- | -----: 
+Relax | 1
 
 {{< more >}}

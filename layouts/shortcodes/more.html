@@ -1,2 +1,2 @@
-{{ $tracks := $.Page.Resources.GetMatch "tracks.md" }} {{if $tracks }}
-<span>{{$tracks.Content}}</span> {{ else }} BROKEN IMAGE LINK {{ end }}
+{{ $more := $.Page.Resources.GetMatch "more.md" }} {{if $more }}
+<span>{{$more.Content}}</span> {{ else }} {{ end }}

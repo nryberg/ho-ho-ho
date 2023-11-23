@@ -1,11 +1,11 @@
 ---
-title: Al Jarreau
+title: "Al Jarreau"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-The Christmas Song|17
+----- | -----: 
+The Christmas Song | 17
 
 {{< more >}}

@@ -1,11 +1,11 @@
 ---
-title: Enrique Iglesias
+title: "Enrique Iglesias"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Hero|1
+----- | -----: 
+Hero | 1
 
 {{< more >}}

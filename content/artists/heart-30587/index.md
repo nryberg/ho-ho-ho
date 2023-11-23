@@ -1,11 +1,11 @@
 ---
-title: Heart
+title: "Heart"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Magic Man|1
+----- | -----: 
+Magic Man | 1
 
 {{< more >}}

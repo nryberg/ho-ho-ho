@@ -1,11 +1,11 @@
 ---
-title: David Foster
+title: "David Foster"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Carol Of The Bells|92
+----- | -----: 
+Carol Of The Bells | 92
 
 {{< more >}}

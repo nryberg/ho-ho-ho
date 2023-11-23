@@ -1,11 +1,11 @@
 ---
-title: Steve Lawrence & Eydie Gorme
+title: "Steve Lawrence & Eydie Gorme"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Happy Holiday|1
+----- | -----: 
+Happy Holiday | 1
 
 {{< more >}}

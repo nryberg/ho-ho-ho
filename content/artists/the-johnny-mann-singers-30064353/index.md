@@ -1,11 +1,11 @@
 ---
-title: The Johnny Mann Singers
+title: "The Johnny Mann Singers"
 ShowToc: false
 ---
 
 ## Songs
 Title | Plays 
------ | ----- : 
-Deck the Halls|21
+----- | -----: 
+Deck the Halls | 21
 
 {{< more >}}
