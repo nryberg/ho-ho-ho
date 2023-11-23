@@ -135,6 +135,10 @@ params:
         buttons:
             - name: Stations
               url: stations
+            - name: Artists
+              url: artists
+            - name: Songs
+              url: songs
             # - name: Tags
             #   url: tags
 
@@ -158,7 +162,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/nryberg/ho-ho-ho/tree/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
