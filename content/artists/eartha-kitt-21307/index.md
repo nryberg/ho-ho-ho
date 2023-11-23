@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Santa Baby | 5
+[Santa Baby](/songs/santa-baby) | 5
 
 {{< more >}}

@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Small Town Christmas | 2
+[Small Town Christmas](/songs/small-town-christmas) | 2
 
 {{< more >}}

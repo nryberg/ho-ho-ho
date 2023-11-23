@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Shout | 1
+[Shout](/songs/shout) | 1
 
 {{< more >}}

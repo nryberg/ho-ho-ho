@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-La Isla Bonita | 2
+[La Isla Bonita](/songs/la-isla-bonita) | 2
 
 {{< more >}}

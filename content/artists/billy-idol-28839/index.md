@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Mony Mony | 1
+[Mony Mony](/songs/mony-mony) | 1
 
 {{< more >}}

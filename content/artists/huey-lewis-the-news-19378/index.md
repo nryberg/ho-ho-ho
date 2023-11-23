@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-The Power Of Love | 1
+[The Power Of Love](/songs/the-power-of-love) | 1
 
 {{< more >}}

@@ -6,7 +6,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Jingle Bells | 7
-Jingle Bells | 1
+[Jingle Bells](/songs/jingle-bells) | 7
+[Jingle Bells](/songs/jingle-bells) | 1
 
 {{< more >}}

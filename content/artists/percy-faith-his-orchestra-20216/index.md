@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Carol Of The Bells | 7
+[Carol Of The Bells](/songs/carol-of-the-bells) | 7
 
 {{< more >}}

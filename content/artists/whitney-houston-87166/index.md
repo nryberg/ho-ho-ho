@@ -6,7 +6,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Do You Hear What I Hear? | 12
-Joy to the World | 2
+[Do You Hear What I Hear?](/songs/do-you-hear-what-i-hear) | 12
+[Joy to the World](/songs/joy-to-the-world) | 2
 
 {{< more >}}

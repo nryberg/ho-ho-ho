@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Dancing In the Dark | 1
+[Dancing In the Dark](/songs/dancing-in-the-dark) | 1
 
 {{< more >}}

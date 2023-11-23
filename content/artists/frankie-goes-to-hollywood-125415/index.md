@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Relax | 1
+[Relax](/songs/relax) | 1
 
 {{< more >}}

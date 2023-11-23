@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Winter Wonderland | 24
+[Winter Wonderland](/songs/winter-wonderland) | 24
 
 {{< more >}}

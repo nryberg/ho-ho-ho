@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Jingle Bell Rock | 7
+[Jingle Bell Rock](/songs/jingle-bell-rock) | 7
 
 {{< more >}}

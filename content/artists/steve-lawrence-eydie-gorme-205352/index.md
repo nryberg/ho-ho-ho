@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Happy Holiday | 1
+[Happy Holiday](/songs/happy-holiday) | 1
 
 {{< more >}}

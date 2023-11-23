@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Celebrate Me Home | 1
+[Celebrate Me Home](/songs/celebrate-me-home) | 1
 
 {{< more >}}

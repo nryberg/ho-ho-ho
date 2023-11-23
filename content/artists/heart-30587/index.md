@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Magic Man | 1
+[Magic Man](/songs/magic-man) | 1
 
 {{< more >}}

@@ -6,8 +6,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Merry Christmas | 7
-Shape of You | 1
-Eyes Closed | 1
+[Merry Christmas](/songs/merry-christmas) | 7
+[Shape of You](/songs/shape-of-you) | 1
+[Eyes Closed](/songs/eyes-closed) | 1
 
 {{< more >}}

@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Have Yourself A Merry Little Christmas | 2
+[Have Yourself A Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 2
 
 {{< more >}}

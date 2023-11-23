@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Steal My Sunshine | 1
+[Steal My Sunshine](/songs/steal-my-sunshine) | 1
 
 {{< more >}}

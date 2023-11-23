@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Hero | 1
+[Hero](/songs/hero) | 1
 
 {{< more >}}

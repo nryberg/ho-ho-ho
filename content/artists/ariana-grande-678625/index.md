@@ -6,7 +6,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Santa Tell Me | 7
-Last Christmas | 6
+[Santa Tell Me](/songs/santa-tell-me) | 7
+[Last Christmas](/songs/last-christmas) | 6
 
 {{< more >}}

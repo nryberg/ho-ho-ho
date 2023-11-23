@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-You're A Mean One, Mr. Grinch | 67
+[You're A Mean One, Mr. Grinch](/songs/youre-a-mean-one-mr-grinch) | 67
 
 {{< more >}}

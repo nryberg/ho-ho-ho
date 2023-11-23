@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Sleigh Ride | 42
+[Sleigh Ride](/songs/sleigh-ride) | 42
 
 {{< more >}}

@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-No One | 1
+[No One](/songs/no-one) | 1
 
 {{< more >}}

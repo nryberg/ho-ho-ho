@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-All My Life | 1
+[All My Life](/songs/all-my-life) | 1
 
 {{< more >}}

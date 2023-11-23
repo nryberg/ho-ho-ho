@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Last Christmas | 27
+[Last Christmas](/songs/last-christmas) | 27
 
 {{< more >}}

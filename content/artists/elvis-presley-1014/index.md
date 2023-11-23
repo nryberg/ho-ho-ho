@@ -6,9 +6,9 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Blue Christmas | 26
-Silver Bells | 23
-Here Comes Santa Claus (Right Down Santa Claus Lane) | 14
-Here Comes Sant Right a Claus (Down Santa Claus Lane) | 2
+[Blue Christmas](/songs/blue-christmas) | 26
+[Silver Bells](/songs/silver-bells) | 23
+[Here Comes Santa Claus (Right Down Santa Claus Lane)](/songs/here-comes-santa-claus-right-down-santa-claus-lane) | 14
+[Here Comes Sant Right a Claus (Down Santa Claus Lane)](/songs/here-comes-sant-right-a-claus-down-santa-claus-lane) | 2
 
 {{< more >}}

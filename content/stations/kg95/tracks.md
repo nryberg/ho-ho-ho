@@ -7,13 +7,13 @@ headless: true
 
 | Track | Plays |
 | --- |  ---: |
-|[All I Want for Christmas Is You](https://www.iheart.com/artist/mariah-carey-31885/songs/all-i-want-for-christmas-is-you-20275005/) by [Mariah Carey](https://www.iheart.com/artist/mariah-carey-31885/)| 14|
-|[Sleigh Ride](https://www.iheart.com/artist/the-ronettes-89545/songs/sleigh-ride-2513311/) by [The Ronettes](https://www.iheart.com/artist/the-ronettes-89545/)| 13|
-|[Let It Snow! Let It Snow! Let It Snow!](https://www.iheart.com/artist/dean-martin-6555/songs/let-it-snow-let-it-snow-let-it-snow-29762326/) by [Dean Martin](https://www.iheart.com/artist/dean-martin-6555/)| 13|
-|[Feliz Navidad](https://www.iheart.com/artist/jose-feliciano-30507/songs/feliz-navidad-2954725/) by [José Feliciano](https://www.iheart.com/artist/jose-feliciano-30507/)| 13|
-|[Winter Wonderland](https://www.iheart.com/artist/amy-grant-3053/songs/winter-wonderland-467693/) by [Amy Grant](https://www.iheart.com/artist/amy-grant-3053/)| 12|
-|[Jingle Bells](https://www.iheart.com/artist/frank-sinatra-739/songs/jingle-bells-493413/) by [Frank Sinatra](https://www.iheart.com/artist/frank-sinatra-739/)| 12|
-|[Rockin' Around The Christmas Tree](https://www.iheart.com/artist/leann-rimes-122380/songs/rockin-around-the-christmas-tree-44819765/) by [LeAnn Rimes](https://www.iheart.com/artist/leann-rimes-122380/)| 12|
-|[Santa Claus Is Coming To Town](https://www.iheart.com/artist/the-jackson-5-35053/songs/santa-claus-is-coming-to-town-28131648/) by [The Jackson 5](https://www.iheart.com/artist/the-jackson-5-35053/)| 11|
-|[Ring Christmas Bells](https://www.iheart.com/artist/ray-conniff-104848/songs/ring-christmas-bells-2786214/) by [Ray Conniff](https://www.iheart.com/artist/ray-conniff-104848/)| 11|
-|[You're A Mean One, Mr. Grinch](https://www.iheart.com/artist/thurl-ravenscroft-89607/songs/youre-a-mean-one-mr-grinch-19309448/) by [THURL RAVENSCROFT](https://www.iheart.com/artist/thurl-ravenscroft-89607/)| 11|
+|[All I Want for Christmas Is You](/songs/all-i-want-for-christmas-is-you) by [Mariah Carey](/artists/mariah-carey-31885)| 14|
+|[Sleigh Ride](/songs/sleigh-ride) by [The Ronettes](/artists/the-ronettes-89545)| 13|
+|[Let It Snow! Let It Snow! Let It Snow!](/songs/let-it-snow-let-it-snow-let-it-snow) by [Dean Martin](/artists/dean-martin-6555)| 13|
+|[Feliz Navidad](/songs/feliz-navidad) by [José Feliciano](/artists/jose-feliciano-30507)| 13|
+|[Winter Wonderland](/songs/winter-wonderland) by [Amy Grant](/artists/amy-grant-3053)| 12|
+|[Jingle Bells](/songs/jingle-bells) by [Frank Sinatra](/artists/frank-sinatra-739)| 12|
+|[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree) by [LeAnn Rimes](/artists/leann-rimes-122380)| 12|
+|[You're A Mean One, Mr. Grinch](/songs/youre-a-mean-one-mr-grinch) by [THURL RAVENSCROFT](/artists/thurl-ravenscroft-89607)| 11|
+|[Carol Of The Bells](/songs/carol-of-the-bells) by [David Foster](/artists/david-foster-58573)| 11|
+|[Ring Christmas Bells](/songs/ring-christmas-bells) by [Ray Conniff](/artists/ray-conniff-104848)| 11|

@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Silver Bells | 7
+[Silver Bells](/songs/silver-bells) | 7
 
 {{< more >}}

@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Scars To Your Beautiful | 1
+[Scars To Your Beautiful](/songs/scars-to-your-beautiful) | 1
 
 {{< more >}}

@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-White Christmas | 3
+[White Christmas](/songs/white-christmas) | 3
 
 {{< more >}}

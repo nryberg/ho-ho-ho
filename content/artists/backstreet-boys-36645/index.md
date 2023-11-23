@@ -6,7 +6,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Last Christmas | 38
-Everybody (Backstreet's Back) | 1
+[Last Christmas](/songs/last-christmas) | 38
+[Everybody (Backstreet's Back)](/songs/everybody-backstreets-back) | 1
 
 {{< more >}}

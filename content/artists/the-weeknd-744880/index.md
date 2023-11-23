@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Blinding Lights | 1
+[Blinding Lights](/songs/blinding-lights) | 1
 
 {{< more >}}

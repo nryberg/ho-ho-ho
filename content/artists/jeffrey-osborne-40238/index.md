@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-This Christmas | 2
+[This Christmas](/songs/this-christmas) | 2
 
 {{< more >}}

@@ -6,11 +6,11 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Let It Snow! | 24
-Holly Jolly Christmas | 12
-It's Beginning to Look a Lot like Christmas | 11
-White Christmas | 6
-Let It Snow, Let It Snow, Let It Snow | 5
-Christmas (Baby Please Come Home) | 5
+[Let It Snow!](/songs/let-it-snow) | 24
+[Holly Jolly Christmas](/songs/holly-jolly-christmas) | 12
+[It's Beginning to Look a Lot like Christmas](/songs/its-beginning-to-look-a-lot-like-christmas) | 11
+[White Christmas](/songs/white-christmas) | 6
+[Christmas (Baby Please Come Home)](/songs/christmas-baby-please-come-home) | 5
+[Let It Snow, Let It Snow, Let It Snow](/songs/let-it-snow-let-it-snow-let-it-snow) | 5
 
 {{< more >}}

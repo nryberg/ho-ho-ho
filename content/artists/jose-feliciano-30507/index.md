@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Feliz Navidad | 103
+[Feliz Navidad](/songs/feliz-navidad) | 103
 
 {{< more >}}

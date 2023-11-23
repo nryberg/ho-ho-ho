@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-All Around the World | 1
+[All Around the World](/songs/all-around-the-world) | 1
 
 {{< more >}}

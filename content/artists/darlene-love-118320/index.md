@@ -6,9 +6,9 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Christmas (Baby Please Come Home) | 42
-White Christmas | 12
-Christmas (Baby Please Come Home) | 8
-Marshmallow World | 2
+[Christmas (Baby Please Come Home)](/songs/christmas-baby-please-come-home) | 42
+[White Christmas](/songs/white-christmas) | 12
+[Christmas (Baby Please Come Home)](/songs/christmas-baby-please-come-home) | 8
+[Marshmallow World](/songs/marshmallow-world) | 2
 
 {{< more >}}

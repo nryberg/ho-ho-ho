@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Small Town | 1
+[Small Town](/songs/small-town) | 1
 
 {{< more >}}

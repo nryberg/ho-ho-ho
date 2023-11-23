@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Rag Doll | 1
+[Rag Doll](/songs/rag-doll) | 1
 
 {{< more >}}

@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Little Drummer Boy | 5
+[Little Drummer Boy](/songs/little-drummer-boy) | 5
 
 {{< more >}}

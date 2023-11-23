@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Deck the Halls | 21
+[Deck the Halls](/songs/deck-the-halls) | 21
 
 {{< more >}}

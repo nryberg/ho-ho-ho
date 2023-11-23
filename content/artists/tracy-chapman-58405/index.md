@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Fast Car | 1
+[Fast Car](/songs/fast-car) | 1
 
 {{< more >}}

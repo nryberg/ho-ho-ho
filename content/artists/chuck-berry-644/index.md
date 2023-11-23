@@ -6,6 +6,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Run Run Rudolph | 45
+[Run Run Rudolph](/songs/run-run-rudolph) | 45
 
 {{< more >}}

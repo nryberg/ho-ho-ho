@@ -6,8 +6,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-Linus And Lucy | 68
-Christmas Time Is Here | 1
-Skating | 1
+[Linus And Lucy](/songs/linus-and-lucy) | 68
+[Christmas Time Is Here](/songs/christmas-time-is-here) | 1
+[Skating](/songs/skating) | 1
 
 {{< more >}}
