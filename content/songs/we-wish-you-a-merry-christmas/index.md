@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kenny G](/artists/kenny-g-7789) | 31
+[Kenny G](/artists/kenny-g-7789) | 43
 

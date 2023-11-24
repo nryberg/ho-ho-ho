@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Boston Pops Orchestra](/artists/boston-pops-orchestra-136372) | 9
+[Boston Pops Orchestra](/artists/boston-pops-orchestra-136372) | 12
 

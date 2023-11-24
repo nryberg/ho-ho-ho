@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Baby, It's Cold Outside](/songs/baby-its-cold-outside) | 7
+[Baby, It's Cold Outside](/songs/baby-its-cold-outside) | 10
 

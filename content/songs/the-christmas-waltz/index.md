@@ -8,6 +8,6 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Frank Sinatra](/artists/frank-sinatra-739) | 24
+[Frank Sinatra](/artists/frank-sinatra-739) | 26
 [Johnny Mathis](/artists/johnny-mathis-14581) | 1
 

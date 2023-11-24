@@ -8,6 +8,6 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Frank Sinatra](/artists/frank-sinatra-739) | 2
+[Frank Sinatra](/artists/frank-sinatra-739) | 7
 [Wilson Phillips](/artists/wilson-phillips-29912) | 1
 

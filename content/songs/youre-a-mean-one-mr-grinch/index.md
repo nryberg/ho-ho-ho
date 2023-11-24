@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[THURL RAVENSCROFT](/artists/thurl-ravenscroft-89607) | 98
+[THURL RAVENSCROFT](/artists/thurl-ravenscroft-89607) | 114
 

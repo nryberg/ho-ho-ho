@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Perry Como](/artists/perry-como-197) | 22
+[Perry Como](/artists/perry-como-197) | 24
 

@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Jimmy Durante](/artists/jimmy-durante-13750) | 24
+[Jimmy Durante](/artists/jimmy-durante-13750) | 29
 

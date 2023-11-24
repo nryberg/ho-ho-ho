@@ -8,12 +8,12 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Dean Martin](/artists/dean-martin-6555) | 126
-[Andy Williams](/artists/andy-williams-16425) | 71
-[Harry Connick, Jr.](/artists/harry-connick-jr-41411) | 59
-[Aaron Neville](/artists/aaron-neville-384) | 12
-[Michael Bublé](/artists/michael-buble-58319) | 8
-[Michael Bolton](/artists/michael-bolton-5090) | 2
-[Gloria Estefan](/artists/gloria-estefan-31888) | 1
+[Dean Martin](/artists/dean-martin-6555) | 142
+[Harry Connick, Jr.](/artists/harry-connick-jr-41411) | 82
+[Andy Williams](/artists/andy-williams-16425) | 77
+[Aaron Neville](/artists/aaron-neville-384) | 18
+[Michael Bublé](/artists/michael-buble-58319) | 9
+[Michael Bolton](/artists/michael-bolton-5090) | 3
 [RICOCHET](/artists/ricochet-30404504) | 1
+[Gloria Estefan](/artists/gloria-estefan-31888) | 1
 

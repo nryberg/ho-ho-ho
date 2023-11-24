@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[All I Want for Christmas Is You](/songs/all-i-want-for-christmas-is-you) | 3
+[All I Want for Christmas Is You](/songs/all-i-want-for-christmas-is-you) | 4
 

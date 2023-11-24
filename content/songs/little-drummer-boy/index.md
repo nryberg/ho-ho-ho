@@ -8,7 +8,7 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Ray Conniff](/artists/ray-conniff-104848) | 37
-[Harry Simeone Chorale](/artists/harry-simeone-chorale-30122133) | 6
+[Ray Conniff](/artists/ray-conniff-104848) | 43
+[Harry Simeone Chorale](/artists/harry-simeone-chorale-30122133) | 7
 [Josh Groban](/artists/josh-groban-58260) | 1
 

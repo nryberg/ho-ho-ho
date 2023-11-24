@@ -8,7 +8,7 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Andy Williams](/artists/andy-williams-16425) | 132
-[Amy Grant](/artists/amy-grant-3053) | 27
-[Peabo Bryson](/artists/peabo-bryson-38840) | 27
+[Andy Williams](/artists/andy-williams-16425) | 159
+[Amy Grant](/artists/amy-grant-3053) | 37
+[Peabo Bryson](/artists/peabo-bryson-38840) | 31
 

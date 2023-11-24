@@ -8,8 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Hark! The Herald Angels Sing](/songs/hark-the-herald-angels-sing) | 18
-[Joy to the World](/songs/joy-to-the-world) | 14
-[Happy Holiday](/songs/happy-holiday) | 8
-[We Need a Little Christmas](/songs/we-need-a-little-christmas) | 6
+[Joy to the World](/songs/joy-to-the-world) | 23
+[Hark! The Herald Angels Sing](/songs/hark-the-herald-angels-sing) | 19
+[Happy Holiday](/songs/happy-holiday) | 10
+[We Need a Little Christmas](/songs/we-need-a-little-christmas) | 8
 

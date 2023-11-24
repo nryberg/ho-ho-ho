@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Katy Perry](/artists/katy-perry-35141) | 15
+[Katy Perry](/artists/katy-perry-35141) | 17
 

@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kimberley Locke](/artists/kimberley-locke-122102) | 23
+[Kimberley Locke](/artists/kimberley-locke-122102) | 28
 

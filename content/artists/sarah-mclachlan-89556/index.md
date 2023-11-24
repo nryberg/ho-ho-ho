@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 29
-[Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 13
+[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 38
+[Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 14
 

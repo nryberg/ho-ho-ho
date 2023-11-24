@@ -8,7 +8,7 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Lady A](/artists/lady-a-33498) | 45
+[Lady A](/artists/lady-a-33498) | 61
 [Johnny Mathis](/artists/johnny-mathis-14581) | 8
-[Alan Jackson](/artists/alan-jackson-69978) | 2
+[Alan Jackson](/artists/alan-jackson-69978) | 4
 

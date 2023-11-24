@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Royal Guardsmen](/artists/the-royal-guardsmen-38732) | 10
+[The Royal Guardsmen](/artists/the-royal-guardsmen-38732) | 13
 

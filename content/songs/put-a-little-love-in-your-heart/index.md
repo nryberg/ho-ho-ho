@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Al Green](/artists/al-green-13337) | 1
+[Al Green](/artists/al-green-13337) | 2
 
