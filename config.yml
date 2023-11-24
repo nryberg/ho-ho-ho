@@ -144,6 +144,8 @@ params:
               url: artists
             - name: Songs
               url: songs
+            - name: Top 25 Songs
+              url: top/25_tracks
             # - name: Tags
             #   url: tags
 

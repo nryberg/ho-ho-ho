@@ -8,7 +8,7 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Perry Como](/artists/perry-como-197) | 72
-[Bing Crosby](/artists/bing-crosby-1864) | 67
-[Michael Bublé](/artists/michael-buble-58319) | 19
+[Perry Como](/artists/perry-como-197) | 74
+[Bing Crosby](/artists/bing-crosby-1864) | 69
+[Michael Bublé](/artists/michael-buble-58319) | 20
 

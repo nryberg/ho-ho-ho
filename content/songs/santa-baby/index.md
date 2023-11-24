@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Eartha Kitt](/artists/eartha-kitt-21307) | 11
+[Eartha Kitt](/artists/eartha-kitt-21307) | 16
 

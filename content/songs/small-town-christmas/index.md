@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Rob Thomas](/artists/rob-thomas-41846) | 3
+[Rob Thomas](/artists/rob-thomas-41846) | 4
 

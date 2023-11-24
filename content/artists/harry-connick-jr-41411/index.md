@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 84
+[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 89
 [Let It Snow, Let It Snow, Let It Snow](/songs/let-it-snow-let-it-snow-let-it-snow) | 82
 [Sleigh Ride](/songs/sleigh-ride) | 4
 [When My Heart Finds Christmas](/songs/when-my-heart-finds-christmas) | 1

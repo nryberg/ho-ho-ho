@@ -8,10 +8,10 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Drifters](/artists/the-drifters-1393) | 106
+[The Drifters](/artists/the-drifters-1393) | 112
 [Darlene Love](/artists/darlene-love-118320) | 16
-[Michael Bublé](/artists/michael-buble-58319) | 8
-[Meghan Trainor](/artists/meghan-trainor-543619) | 6
+[Michael Bublé](/artists/michael-buble-58319) | 9
+[Meghan Trainor](/artists/meghan-trainor-543619) | 7
 [Sir Elton John & me](/artists/sir-elton-john-me-206023) | 2
 [Bette Midler](/artists/bette-midler-58591) | 2
 [Chicago](/artists/chicago-5663) | 2

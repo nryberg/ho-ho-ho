@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Jingle Bells](/songs/jingle-bells) | 69
+[Jingle Bells](/songs/jingle-bells) | 74
 [Rudolph, the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 16
 

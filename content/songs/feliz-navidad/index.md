@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[José Feliciano](/artists/jose-feliciano-30507) | 173
+[José Feliciano](/artists/jose-feliciano-30507) | 178
 

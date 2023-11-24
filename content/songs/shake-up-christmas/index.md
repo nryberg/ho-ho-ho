@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Train](/artists/train-90187) | 1
+[Train](/artists/train-90187) | 2
 

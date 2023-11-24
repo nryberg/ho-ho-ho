@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Trans-Siberian Orchestra](/artists/trans-siberian-orchestra-58610) | 96
+[Trans-Siberian Orchestra](/artists/trans-siberian-orchestra-58610) | 97
 

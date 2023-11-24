@@ -8,7 +8,7 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[LeAnn Rimes](/artists/leann-rimes-122380) | 128
-[Brenda Lee](/artists/brenda-lee-18115) | 124
-[Amy Grant](/artists/amy-grant-3053) | 54
+[LeAnn Rimes](/artists/leann-rimes-122380) | 133
+[Brenda Lee](/artists/brenda-lee-18115) | 130
+[Amy Grant](/artists/amy-grant-3053) | 56
 

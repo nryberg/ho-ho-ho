@@ -8,6 +8,6 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Gene Autry](/artists/gene-autry-1800) | 110
+[Gene Autry](/artists/gene-autry-1800) | 116
 [Elvis Presley](/artists/elvis-presley-1014) | 19
 

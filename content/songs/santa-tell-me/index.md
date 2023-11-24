@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Ariana Grande](/artists/ariana-grande-678625) | 8
+[Ariana Grande](/artists/ariana-grande-678625) | 9
 

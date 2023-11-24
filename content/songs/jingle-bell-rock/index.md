@@ -8,7 +8,7 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Brenda Lee](/artists/brenda-lee-18115) | 122
+[Brenda Lee](/artists/brenda-lee-18115) | 125
 [Amy Grant](/artists/amy-grant-3053) | 19
-[Daryl Hall & John Oates](/artists/daryl-hall-john-oates-645736) | 13
+[Daryl Hall & John Oates](/artists/daryl-hall-john-oates-645736) | 14
 

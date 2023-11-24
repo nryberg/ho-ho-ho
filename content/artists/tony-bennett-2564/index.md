@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Winter Wonderland](/songs/winter-wonderland) | 28
+[Winter Wonderland](/songs/winter-wonderland) | 29
 [Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town) | 18
 [The Christmas Song](/songs/the-christmas-song) | 11
 [Have Yourself A Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 3
