@@ -38,6 +38,9 @@ languages:
                 - name: Posts
                   url: posts/
                   weight: 30
+                - name: About
+                  url: about/
+                  weight: 40
                 # - name: WiKi
                 #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 # - name: Discord
@@ -158,7 +161,7 @@ params:
         - name: github
           url: "https://github.com/nryberg/ho-ho-ho"
         - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "https://ko-fi.com/nickryberg"
         - name: Rss
           url: "index.xml"
 

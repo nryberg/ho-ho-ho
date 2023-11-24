@@ -1,6 +1,4 @@
----
-tags: ["revenge", "original"]
---- 
+
 
 Probably one of the best "Awww snap" songs in this list.  Think modernized revenge song, and you're not far off. 
 
