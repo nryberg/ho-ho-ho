@@ -10,6 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+ShowWordCount: true
 # googleAnalytics: UA-123-45
 
 minify:
@@ -118,7 +119,7 @@ params:
     # disableThemeToggle: true
     ShowShareButtons: false
     # ShareButtons: ["reddit", "facebook", "whatsapp"]
-    ShowReadingTime: true
+    ShowReadingTime: false
     # disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: false
