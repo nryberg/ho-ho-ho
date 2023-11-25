@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[*NSYNC](/artists/nsync-31882) | 9
+[*NSYNC](/artists/nsync-31882) | 10
 

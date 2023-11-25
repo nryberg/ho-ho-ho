@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Johnny Mathis](/artists/johnny-mathis-14581) | 2
+[Johnny Mathis](/artists/johnny-mathis-14581) | 3
 

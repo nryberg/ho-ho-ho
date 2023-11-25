@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Barry Manilow](/artists/barry-manilow-31897) | 2
+[Barry Manilow](/artists/barry-manilow-31897) | 3
 

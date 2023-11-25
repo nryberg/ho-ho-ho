@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Josh Groban](/artists/josh-groban-58260) | 2
+[Josh Groban](/artists/josh-groban-58260) | 3
 

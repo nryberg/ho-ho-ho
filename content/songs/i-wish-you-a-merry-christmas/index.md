@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Bing Crosby](/artists/bing-crosby-1864) | 82
+[Bing Crosby](/artists/bing-crosby-1864) | 99
 

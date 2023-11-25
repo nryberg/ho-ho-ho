@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Elvis Presley](/artists/elvis-presley-1014) | 31
+[Elvis Presley](/artists/elvis-presley-1014) | 33
 

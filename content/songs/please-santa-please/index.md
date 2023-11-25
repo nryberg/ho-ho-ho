@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Pentatonix](/artists/pentatonix-655231) | 15
+[Pentatonix](/artists/pentatonix-655231) | 22
 

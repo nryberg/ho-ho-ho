@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[John Lennon](/artists/john-lennon-972) | 106
+[John Lennon](/artists/john-lennon-972) | 124
 

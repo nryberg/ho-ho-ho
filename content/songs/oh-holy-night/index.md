@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kelly Clarkson](/artists/kelly-clarkson-34788) | 66
+[Kelly Clarkson](/artists/kelly-clarkson-34788) | 79
 

@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Vince Guaraldi Trio](/artists/vince-guaraldi-trio-37943) | 124
+[Vince Guaraldi Trio](/artists/vince-guaraldi-trio-37943) | 140
 

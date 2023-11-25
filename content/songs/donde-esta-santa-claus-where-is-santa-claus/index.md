@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Augie Rios](/artists/augie-rios-199353) | 1
+[Augie Rios](/artists/augie-rios-199353) | 2
 

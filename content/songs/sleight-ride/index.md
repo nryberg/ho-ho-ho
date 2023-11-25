@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Carpenters](/artists/carpenters-39303) | 8
+[Carpenters](/artists/carpenters-39303) | 13
 

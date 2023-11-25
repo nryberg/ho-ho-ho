@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Percy Faith](/artists/percy-faith-120889) | 106
+[Percy Faith](/artists/percy-faith-120889) | 120
 

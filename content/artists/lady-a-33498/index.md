@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[A Holly Jolly Christmas](/songs/a-holly-jolly-christmas) | 61
+[A Holly Jolly Christmas](/songs/a-holly-jolly-christmas) | 71
 

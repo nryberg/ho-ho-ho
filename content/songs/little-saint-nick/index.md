@@ -8,5 +8,5 @@ ShowToc: false
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Beach Boys](/artists/the-beach-boys-3455) | 5
+[The Beach Boys](/artists/the-beach-boys-3455) | 6
 

@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Little Drummer Boy](/songs/little-drummer-boy) | 7
+[Little Drummer Boy](/songs/little-drummer-boy) | 8
 
