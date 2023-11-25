@@ -15,7 +15,7 @@ Title | Plays
 [Silent Night](/songs/silent-night) | 7
 [Adeste Fideles (O Come All Ye Faithful)](/songs/adeste-fideles-o-come-all-ye-faithful) | 4
 [Hark the Herald Angel Sing](/songs/hark-the-herald-angel-sing) | 3
-[Hark! The Herald Angels Sing (1999 - Remaster)](/songs/hark-the-herald-angels-sing-1999-remaster) | 1
 [Misty](/songs/misty) | 1
+[Hark! The Herald Angels Sing (1999 - Remaster)](/songs/hark-the-herald-angels-sing-1999-remaster) | 1
 [Adeste Fideles (O Come All Ye Faithful)](/songs/adeste-fideles-o-come-all-ye-faithful) | 1
 

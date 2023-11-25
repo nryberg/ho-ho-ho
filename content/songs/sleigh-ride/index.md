@@ -16,6 +16,6 @@ Artists | Plays
 [Arthur Fiedler](/artists/arthur-fiedler-122289) | 37
 [Andy Williams](/artists/andy-williams-16425) | 32
 [Boston Pops Orchestra](/artists/boston-pops-orchestra-136372) | 12
-[Ray Conniff](/artists/ray-conniff-104848) | 4
 [Harry Connick, Jr.](/artists/harry-connick-jr-41411) | 4
+[Ray Conniff](/artists/ray-conniff-104848) | 4
 

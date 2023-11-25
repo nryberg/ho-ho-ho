@@ -13,6 +13,6 @@ Title | Plays
 [Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 5
 [Believe](/songs/believe) | 2
 [Little Drummer Boy](/songs/little-drummer-boy) | 1
-[The First Noël (with Faith Hill)](/songs/the-first-noel-with-faith-hill) | 1
 [I'll Be Home for Christmas](/songs/ill-be-home-for-christmas) | 1
+[The First Noël (with Faith Hill)](/songs/the-first-noel-with-faith-hill) | 1
 

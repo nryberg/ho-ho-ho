@@ -14,7 +14,7 @@ Artists | Plays
 [Colbie Caillat](/artists/colbie-caillat-33213) | 30
 [Tony Bennett](/artists/tony-bennett-2564) | 29
 [Air Supply](/artists/air-supply-2618) | 18
-[Barry Manilow](/artists/barry-manilow-31897) | 5
 [Darlene Love](/artists/darlene-love-118320) | 5
+[Barry Manilow](/artists/barry-manilow-31897) | 5
 [Pentatonix](/artists/pentatonix-655231) | 1
 

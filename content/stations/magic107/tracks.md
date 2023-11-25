@@ -14,6 +14,6 @@ headless: true
 |[Jingle Bells](/songs/jingle-bells) by [Frank Sinatra](/artists/frank-sinatra-739)| 21|
 |[It's the Most Wonderful Time of the Year](/songs/its-the-most-wonderful-time-of-the-year) by [Andy Williams](/artists/andy-williams-16425)| 21|
 |[It's Beginning to Look a Lot like Christmas](/songs/its-beginning-to-look-a-lot-like-christmas) by [Michael Bublé](/artists/michael-buble-58319)| 20|
-|[Holly Jolly Christmas](/songs/holly-jolly-christmas) by [Michael Bublé](/artists/michael-buble-58319)| 20|
 |[Sleigh Ride](/songs/sleigh-ride) by [Johnny Mathis](/artists/johnny-mathis-14581)| 20|
 |[Jingle Bell Rock](/songs/jingle-bell-rock) by [Brenda Lee](/artists/brenda-lee-18115)| 20|
+|[Holly Jolly Christmas](/songs/holly-jolly-christmas) by [Michael Bublé](/artists/michael-buble-58319)| 20|

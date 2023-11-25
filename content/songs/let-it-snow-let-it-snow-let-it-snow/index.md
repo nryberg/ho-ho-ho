@@ -14,6 +14,6 @@ Artists | Plays
 [Aaron Neville](/artists/aaron-neville-384) | 18
 [Michael Bublé](/artists/michael-buble-58319) | 11
 [Michael Bolton](/artists/michael-bolton-5090) | 3
-[Gloria Estefan](/artists/gloria-estefan-31888) | 1
 [RICOCHET](/artists/ricochet-30404504) | 1
+[Gloria Estefan](/artists/gloria-estefan-31888) | 1
 
