@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Eagles](/artists/eagles-59842) | 1
-
+{{< artists >}}

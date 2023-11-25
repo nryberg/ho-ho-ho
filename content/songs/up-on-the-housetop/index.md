@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Kimberley Locke](/artists/kimberley-locke-122102) | 33
-
+{{< artists >}}

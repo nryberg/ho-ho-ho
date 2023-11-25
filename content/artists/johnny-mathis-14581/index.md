@@ -14,7 +14,7 @@ Title | Plays
 [Have a Holly Jolly Christmas](/songs/have-a-holly-jolly-christmas) | 10
 [The Christmas Song (Chestnuts Roasting on an Open Fire)](/songs/the-christmas-song-chestnuts-roasting-on-an-open-fire) | 9
 [The First Noel](/songs/the-first-noel) | 5
-[Caroling, Caroling / Happy Holiday](/songs/caroling-caroling-happy-holiday) | 3
 [We Need a Little Christmas](/songs/we-need-a-little-christmas) | 3
+[Caroling, Caroling / Happy Holiday](/songs/caroling-caroling-happy-holiday) | 3
 [The Christmas Waltz](/songs/the-christmas-waltz) | 1
 

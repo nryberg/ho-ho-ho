@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Idina Menzel](/artists/idina-menzel-42581) | 11
-
+{{< artists >}}

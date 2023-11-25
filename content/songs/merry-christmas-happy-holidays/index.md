@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[*NSYNC](/artists/nsync-31882) | 10
-
+{{< artists >}}

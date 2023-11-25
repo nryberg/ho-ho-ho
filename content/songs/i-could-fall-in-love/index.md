@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Selena](/artists/selena-28220) | 1
-
+{{< artists >}}

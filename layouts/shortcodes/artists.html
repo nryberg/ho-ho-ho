@@ -1,0 +1,2 @@
+{{ $artists := $.Page.Resources.GetMatch "artists.md" }} {{if $artists }}
+<span>{{$artists.Content}}</span> {{ end }}

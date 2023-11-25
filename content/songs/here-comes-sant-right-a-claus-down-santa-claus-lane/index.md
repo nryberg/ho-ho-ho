@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Elvis Presley](/artists/elvis-presley-1014) | 12
-
+{{< artists >}}

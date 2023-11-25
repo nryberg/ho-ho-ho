@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Barry Manilow](/artists/barry-manilow-31897) | 3
-
+{{< artists >}}

@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Faith Hill](/artists/faith-hill-58019) | 107
-
+{{< artists >}}

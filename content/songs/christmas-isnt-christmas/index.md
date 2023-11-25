@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Bon Jovi](/artists/bon-jovi-39361) | 17
-
+{{< artists >}}

@@ -5,8 +5,4 @@ ShowToc: false
 
 {{< more >}}
 
-## Artists
-Artists | Plays 
------ | -----: 
-[Perry Como](/artists/perry-como-197) | 35
-
+{{< artists >}}
