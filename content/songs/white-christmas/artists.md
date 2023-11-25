@@ -7,7 +7,7 @@ Artists | Plays
 [Meghan Trainor](/artists/meghan-trainor-543619) | 9
 [Chicago](/artists/chicago-5663) | 4
 [Barry Manilow](/artists/barry-manilow-31897) | 3
-[Bette Midler](/artists/bette-midler-58591) | 2
 [Sir Elton John & me](/artists/sir-elton-john-me-206023) | 2
+[Bette Midler](/artists/bette-midler-58591) | 2
 [Michael Bolton](/artists/michael-bolton-5090) | 1
 

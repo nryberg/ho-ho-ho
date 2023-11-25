@@ -28,8 +28,8 @@ Title | Plays
 [Carol of the Bells](/songs/carol-of-the-bells) | 163
 [Ring Christmas Bells](/songs/ring-christmas-bells) | 159
 [Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town) | 155
-[O Holy Night](/songs/o-holy-night) | 148
 [Here Comes Santa Claus (Right Down Santa Claus Lane)](/songs/here-comes-santa-claus-right-down-santa-claus-lane) | 148
+[O Holy Night](/songs/o-holy-night) | 148
 [Last Christmas](/songs/last-christmas) | 143
 [Linus And Lucy](/songs/linus-and-lucy) | 140
 [Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 139
