@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[DJ Play A Christmas Song](/songs/dj-play-a-christmas-song) | 26
+[DJ Play A Christmas Song](/songs/dj-play-a-christmas-song) | 62
 

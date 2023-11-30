@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Do You Hear What I Hear?](/songs/do-you-hear-what-i-hear) | 19
-[Joy to the World](/songs/joy-to-the-world) | 8
-[The First Noël](/songs/the-first-noel) | 1
+[Do You Hear What I Hear?](/songs/do-you-hear-what-i-hear) | 49
+[Joy to the World](/songs/joy-to-the-world) | 21
+[The First Noël](/songs/the-first-noel) | 2
 

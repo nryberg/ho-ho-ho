@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Jimmy Buffett](/artists/jimmy-buffett-31884) | 2
+[Jimmy Buffett](/artists/jimmy-buffett-31884) | 4
 

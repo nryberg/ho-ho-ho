@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Put A Little Love In Your Heart](/songs/put-a-little-love-in-your-heart) | 2
+[Put A Little Love In Your Heart](/songs/put-a-little-love-in-your-heart) | 5
 

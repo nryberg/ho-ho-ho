@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[O Come All Ye Faithful](/songs/o-come-all-ye-faithful) | 1
+[O Come All Ye Faithful](/songs/o-come-all-ye-faithful) | 5
 

@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Mannheim Steamroller](/artists/mannheim-steamroller-39605) | 3
+[Mannheim Steamroller](/artists/mannheim-steamroller-39605) | 4
 

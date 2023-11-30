@@ -8,5 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[This Christmas](/songs/this-christmas) | 34
+[This Christmas](/songs/this-christmas) | 50
+[Have Yourself A Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 4
 

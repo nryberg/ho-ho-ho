@@ -8,10 +8,10 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Carol of the Bells](/songs/carol-of-the-bells) | 159
-[Faeries](/songs/faeries) | 23
-[Deck the Halls](/songs/deck-the-halls) | 22
-[We Three Kings](/songs/we-three-kings) | 20
-[God Rest Ye Merry, Gentlemen (Rock)](/songs/god-rest-ye-merry-gentlemen-rock) | 3
+[Carol of the Bells](/songs/carol-of-the-bells) | 303
+[Faeries](/songs/faeries) | 44
+[We Three Kings](/songs/we-three-kings) | 26
+[Deck the Halls](/songs/deck-the-halls) | 25
+[God Rest Ye Merry, Gentlemen (Rock)](/songs/god-rest-ye-merry-gentlemen-rock) | 4
 [Hallelujah From "The Messiah"](/songs/hallelujah-from-the-messiah) | 1
 

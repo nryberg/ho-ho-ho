@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Please Come Home for Christmas](/songs/please-come-home-for-christmas) | 19
+[Please Come Home for Christmas](/songs/please-come-home-for-christmas) | 38
 [Take It Easy](/songs/take-it-easy) | 1
 

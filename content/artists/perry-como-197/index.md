@@ -8,7 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[It's Beginning to Look a Lot Like Christmas](/songs/its-beginning-to-look-a-lot-like-christmas) | 88
-[(There's No Place Like) Home for the Holidays](/songs/theres-no-place-like-home-for-the-holidays) | 35
-[The Twelve Days of Christmas](/songs/the-twelve-days-of-christmas) | 32
+[It's Beginning to Look a Lot Like Christmas](/songs/its-beginning-to-look-a-lot-like-christmas) | 164
+[(There's No Place Like) Home for the Holidays](/songs/theres-no-place-like-home-for-the-holidays) | 93
+[The Twelve Days of Christmas](/songs/the-twelve-days-of-christmas) | 53
+[God Rest Ye Merry, Gentlemen](/songs/god-rest-ye-merry-gentlemen) | 1
 

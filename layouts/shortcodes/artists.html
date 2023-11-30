@@ -1,2 +1,6 @@
+{{ $charts := $.Page.Resources.GetMatch "charts.md" }} {{if $charts }}
+<span>{{$charts.Content}}</span> {{ end }}
+
+
 {{ $artists := $.Page.Resources.GetMatch "artists.md" }} {{if $artists }}
 <span>{{$artists.Content}}</span> {{ end }}

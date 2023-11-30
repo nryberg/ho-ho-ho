@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Johnny Mathis](/artists/johnny-mathis-14581) | 10
+[Johnny Mathis](/artists/johnny-mathis-14581) | 19
 

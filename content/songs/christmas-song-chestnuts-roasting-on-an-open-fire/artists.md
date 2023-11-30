@@ -1,11 +1,11 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Johnny Mathis](/artists/johnny-mathis-14581) | 9
-[Celine Dion](/artists/celine-dion-39068) | 8
-[Nat King Cole](/artists/nat-king-cole-3428) | 6
-[Carpenters](/artists/carpenters-39303) | 6
-[Andy Williams](/artists/andy-williams-16425) | 4
+[Celine Dion](/artists/celine-dion-39068) | 26
+[Carpenters](/artists/carpenters-39303) | 16
+[Johnny Mathis](/artists/johnny-mathis-14581) | 14
+[Nat King Cole](/artists/nat-king-cole-3428) | 11
+[Andy Williams](/artists/andy-williams-16425) | 8
+[Tony Bennett](/artists/tony-bennett-2564) | 4
 [Aaron Neville](/artists/aaron-neville-384) | 2
-[Tony Bennett](/artists/tony-bennett-2564) | 2
 
