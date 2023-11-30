@@ -7,34 +7,3 @@ The sound effects make this song - the clip-clop of horse's hooves and the wippa
 Covered by over 11 artists in this survey alone, it really belongs to [The Ronnettes]({{< ref "the-ronettes-89545">}}) and [Johnny Mathis]({{< ref "johnny-mathis-14581">}}) for vocals, and the [Boston Pops Orchestra]({{< ref "boston-pops-orchestra-136372">}}) for the instrumental. 
 
 It's upbeat, fast paced and has nothing specifically to do with Christmas!
-
-```goat
-.---------------------------------------------------------------------------.
-|                                                                           |
-|                         .-----------------------------------------------. |
-| The Ronettes            |                                 123           | |
-|                         '-----------------------------------------------' |
-| Johnny Mathis           |                                 456     |       |
-|                         '-----------------------------------------'       |
-| Amy Grant               |                         |                       |
-|                         '-------------------------'                       |
-| The A-Strings           |                       |                         |
-|                         '-----------------------'                         |
-| Air Supply              |                      |                          |
-|                         '----------------------'                          |
-| Andy Williams           |         |                                       |
-|                         '---------+                                       |
-| Arthur Fiedler          |         |                                       |
-|                         '--.------+                                       |
-| Boston Pops Orchestra   |  |                                              |
-|                         '--'                                              |
-| Ray Conniff             | |                                               |
-|                         '-'                                               |
-| Harry Connick, Jr.      | |                                               |
-|                         '-'                                               |
-| Carpenters              | |                                               |
-|                         '-'                                               |
-|                                                                           |
-|                                                                           |
-'---------------------------------------------------------------------------'
-```
