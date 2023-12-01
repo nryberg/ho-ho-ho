@@ -12,9 +12,9 @@
 |                           '--'                                            |
 | Chicago                12 | |                                             |
 |                           '-'                                             |
-| Bette Midler            4 | |                                             |
-|                           '-'                                             |
 | Barry Manilow           4 | |                                             |
+|                           '-'                                             |
+| Bette Midler            4 | |                                             |
 |                           '-'                                             |
 | Sir Elton John & me     2 | |                                             |
 |                           '-'                                             |

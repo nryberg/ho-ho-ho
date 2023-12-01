@@ -148,6 +148,8 @@ params:
               url: top/25_tracks
             - name: Prolific Artists
               url: top/prolific_artists
+            - name: Most Covered Songs
+              url: top/most_covered_songs              
             # - name: Tags
             #   url: tags
 

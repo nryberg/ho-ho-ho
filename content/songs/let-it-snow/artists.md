@@ -8,6 +8,6 @@ Artists | Plays
 [Aaron Neville](/artists/aaron-neville-384) | 48
 [RICOCHET](/artists/ricochet-30404504) | 9
 [Michael Bolton](/artists/michael-bolton-5090) | 4
-[Gloria Estefan](/artists/gloria-estefan-31888) | 1
 [Rod Stewart](/artists/rod-stewart-2202) | 1
+[Gloria Estefan](/artists/gloria-estefan-31888) | 1
 

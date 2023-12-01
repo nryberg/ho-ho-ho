@@ -34,9 +34,9 @@
 |                                           '-'                             |
 | Sam Smith                              13 | |                             |
 |                                           '-'                             |
-| Tony Bennett                            4 | |                             |
-|                                           '-'                             |
 | Mary J. Blige                           4 | |                             |
+|                                           '-'                             |
+| Tony Bennett                            4 | |                             |
 |                                           '-'                             |
 | The Pretenders                          3 | |                             |
 |                                           '-'                             |
