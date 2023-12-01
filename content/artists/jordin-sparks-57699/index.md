@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Do You Hear What I Hear?](/songs/do-you-hear-what-i-hear) | 70
+[Do You Hear What I Hear?](/songs/do-you-hear-what-i-hear) | 72
 

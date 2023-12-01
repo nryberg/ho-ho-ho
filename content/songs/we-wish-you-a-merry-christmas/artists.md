@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kenny G](/artists/kenny-g-7789) | 110
+[Kenny G](/artists/kenny-g-7789) | 122
 

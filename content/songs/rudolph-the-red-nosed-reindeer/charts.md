@@ -2,21 +2,21 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                     .-----------------------------------. |
-| Burl Ives                       312 |                                   | |
+| Burl Ives                       337 |                                   | |
 |                                     '-----------------------------------' |
-| Dean Martin                     308 |                                  |  |
+| Dean Martin                     335 |                                  |  |
 |                                     '----------------------------------'  |
-| Harry Connick, Jr.              176 |                   |                 |
+| Harry Connick, Jr.              190 |                   |                 |
 |                                     '-------------------'                 |
-| Gene Autry                      122 |             |                       |
-|                                     '-------------'                       |
-| Jack Johnson                     46 |    |                                |
+| Gene Autry                      127 |            |                        |
+|                                     '------------'                        |
+| Jack Johnson                     53 |    |                                |
 |                                     '----'                                |
-| The Ray Conniff Singers          36 |   |                                 |
-|                                     '---'                                 |
+| The Ray Conniff Singers          37 |  |                                  |
+|                                     '--'                                  |
 | Gene Autry with The Pinafores    18 | |                                   |
 |                                     '-'                                   |
-| The Crystals                      6 | |                                   |
+| The Crystals                      7 | |                                   |
 |                                     '-'                                   |
 | Elton John                        2 | |                                   |
 |                                     '-'                                   |

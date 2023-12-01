@@ -2,10 +2,10 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Percy Faith & His Orchestra & Chorus    20 |                            | |
+| Percy Faith & His Orchestra & Chorus    22 |                            | |
 |                                            '----------------------------' |
-| The New Christy Minstrels               11 |              |               |
-|                                            '--------------'               |
+| The New Christy Minstrels               13 |                |             |
+|                                            '----------------'             |
 | Johnny Mathis                            4 |    |                         |
 |                                            '----'                         |
 |                                                                           |

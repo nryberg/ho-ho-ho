@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Merry Christmas, Happy Holidays](/songs/merry-christmas-happy-holidays) | 17
+[Merry Christmas, Happy Holidays](/songs/merry-christmas-happy-holidays) | 19
 

@@ -8,10 +8,10 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Oh Holy Night](/songs/oh-holy-night) | 153
-[Underneath the Tree](/songs/underneath-the-tree) | 109
-[I'll Be Home for Christmas](/songs/ill-be-home-for-christmas) | 55
-[Christmas Isn't Canceled (Just You)](/songs/christmas-isnt-canceled-just-you) | 2
+[Oh Holy Night](/songs/oh-holy-night) | 174
+[Underneath the Tree](/songs/underneath-the-tree) | 116
+[I'll Be Home for Christmas](/songs/ill-be-home-for-christmas) | 63
+[Christmas Isn't Canceled (Just You)](/songs/christmas-isnt-canceled-just-you) | 3
 [Please Come Home for Christmas (Bells Will Be Ringing)](/songs/please-come-home-for-christmas-bells-will-be-ringing) | 2
 [Blue Christmas](/songs/blue-christmas) | 1
 
