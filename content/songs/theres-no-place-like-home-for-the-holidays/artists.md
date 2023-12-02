@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Perry Como](/artists/perry-como-197) | 97
+[Perry Como](/artists/perry-como-197) | 102
 

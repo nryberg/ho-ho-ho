@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Sleigh Ride](/songs/sleigh-ride) | 163
-[Winter Wonderland](/songs/winter-wonderland) | 42
+[Sleigh Ride](/songs/sleigh-ride) | 183
+[Winter Wonderland](/songs/winter-wonderland) | 44
 

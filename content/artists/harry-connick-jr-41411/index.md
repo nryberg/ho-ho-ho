@@ -8,8 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Let It Snow, Let It Snow, Let It Snow](/songs/let-it-snow-let-it-snow-let-it-snow) | 195
-[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 190
+[Let It Snow, Let It Snow, Let It Snow](/songs/let-it-snow-let-it-snow-let-it-snow) | 218
+[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 213
 [Sleigh Ride](/songs/sleigh-ride) | 5
 [It's the Most Wonderful Time of the Year](/songs/its-the-most-wonderful-time-of-the-year) | 2
 [Blue Christmas](/songs/blue-christmas) | 1

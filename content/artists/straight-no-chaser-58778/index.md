@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[The 12 Days of Christmas](/songs/the) | 2
+[The 12 Days of Christmas](/songs/the) | 4
 

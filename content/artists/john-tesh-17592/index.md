@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Carol Of The Bells](/songs/carol-of-the-bells) | 127
-[Carol of the Bells](/songs/carol-of-the-bells) | 14
+[Carol Of The Bells](/songs/carol-of-the-bells) | 134
+[Carol of the Bells](/songs/carol-of-the-bells) | 16
 

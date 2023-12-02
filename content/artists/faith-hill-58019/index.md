@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Where Are You Christmas](/songs/where-are-you-christmas) | 238
-[Holly Jolly Christmas](/songs/holly-jolly-christmas) | 58
-[Joy to the World](/songs/joy-to-the-world) | 46
+[Where Are You Christmas](/songs/where-are-you-christmas) | 264
+[Holly Jolly Christmas](/songs/holly-jolly-christmas) | 62
+[Joy to the World](/songs/joy-to-the-world) | 53
 

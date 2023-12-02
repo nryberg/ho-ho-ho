@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[The Glory of Love](/songs/the-glory-of-love) | 73
+[The Glory of Love](/songs/the-glory-of-love) | 86
 

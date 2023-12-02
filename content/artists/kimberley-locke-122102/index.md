@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Frosty The Snowman](/songs/frosty-the-snowman) | 70
-[Up On The Housetop](/songs/up-on-the-housetop) | 55
+[Frosty The Snowman](/songs/frosty-the-snowman) | 77
+[Up On The Housetop](/songs/up-on-the-housetop) | 59
 

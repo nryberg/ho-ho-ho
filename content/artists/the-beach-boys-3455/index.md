@@ -8,8 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Frosty The Snowman](/songs/frosty-the-snowman) | 80
-[Little Saint Nick](/songs/little-saint-nick) | 11
-[Santa Claus Is Comin' To Town](/songs/santa-claus-is-comin-to-town) | 8
+[Frosty The Snowman](/songs/frosty-the-snowman) | 85
+[Santa Claus Is Comin' To Town](/songs/santa-claus-is-comin-to-town) | 16
+[Little Saint Nick](/songs/little-saint-nick) | 13
 [The Man With All The Toys](/songs/the-man-with-all-the-toys) | 1
 

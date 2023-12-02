@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Straight No Chaser](/artists/straight-no-chaser-58778) | 2
+[Straight No Chaser](/artists/straight-no-chaser-58778) | 4
 

@@ -2,20 +2,20 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Ray Conniff                            201 |                            | |
+| Bing Crosby                            220 |                            | |
 |                                            '----------------------------' |
-| Bing Crosby                            200 |                           |  |
+| Ray Conniff                            220 |                            | |
+|                                            '----------------------------' |
+| Willie Nelson                          218 |                           |  |
 |                                            '---------------------------'  |
-| Willie Nelson                          192 |                          |   |
-|                                            '--------------------------'   |
-| The Beach Boys                          80 |          |                   |
+| The Beach Boys                          85 |          |                   |
 |                                            '----------'                   |
-| Kimberley Locke                         70 |         |                    |
+| Kimberley Locke                         77 |         |                    |
 |                                            '---------'                    |
-| Gene Autry with The Cass County Boys    53 |      |                       |
+| Gene Autry with The Cass County Boys    60 |      |                       |
 |                                            '------'                       |
-| The Ronettes                            46 |     |                        |
-|                                            '-----'                        |
+| The Ronettes                            54 |      |                       |
+|                                            '------'                       |
 | Sia                                      9 | |                            |
 |                                            '-'                            |
 |                                                                           |

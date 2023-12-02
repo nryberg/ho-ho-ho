@@ -9,5 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [Last Christmas](/songs/last-christmas) | 29
-[Santa Tell Me](/songs/santa-tell-me) | 21
+[Santa Tell Me](/songs/santa-tell-me) | 28
 
