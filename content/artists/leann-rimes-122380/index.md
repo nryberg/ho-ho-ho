@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree) | 346
+[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree) | 355
 

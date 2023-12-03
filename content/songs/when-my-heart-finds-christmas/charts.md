@@ -2,30 +2,30 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                           .-----------------------------. |
-| Frank Sinatra                         206 |                             | |
+| Frank Sinatra                         212 |                             | |
 |                                           '-----------------------------' |
-| Carpenters                            108 |              |                |
-|                                           '--------------'                |
+| Carpenters                            114 |               |               |
+|                                           '---------------'               |
+| Goo Goo Dolls                          82 |          |                    |
+|                                           '----------'                    |
 | Luther Vandross                        79 |          |                    |
 |                                           '----------'                    |
-| Goo Goo Dolls                          77 |          |                    |
-|                                           '----------'                    |
-| Sarah McLachlan                        71 |         |                     |
+| Sarah McLachlan                        74 |         |                     |
 |                                           '---------'                     |
-| Barbra Streisand                       68 |        |                      |
+| Barbra Streisand                       69 |        |                      |
 |                                           '--------'                      |
-| John Legend                            58 |       |                       |
-|                                           '-------'                       |
-| James Taylor                           42 |     |                         |
-|                                           '-----'                         |
-| Kenny G                                42 |     |                         |
-|                                           '-----'                         |
+| John Legend                            66 |        |                      |
+|                                           '--------'                      |
+| Kenny G                                42 |    |                          |
+|                                           '----'                          |
+| James Taylor                           42 |    |                          |
+|                                           '----'                          |
 | Andy Williams                          40 |    |                          |
+|                                           '----'                          |
+| Coldplay                               38 |    |                          |
 |                                           '----'                          |
 | Kelsea Ballerini                       37 |    |                          |
 |                                           '----'                          |
-| Coldplay                               34 |   |                           |
-|                                           '---'                           |
 | Barry Manilow                          24 |  |                            |
 |                                           '--'                            |
 | Josh Groban                            23 |  |                            |

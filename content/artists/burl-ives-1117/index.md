@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 403
+[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 411
 [Silver Bells](/songs/silver-bells) | 53
 

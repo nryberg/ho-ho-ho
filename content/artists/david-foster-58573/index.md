@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Carol Of The Bells](/songs/carol-of-the-bells) | 388
+[Carol Of The Bells](/songs/carol-of-the-bells) | 397
 [Grown-Up Christmas List](/songs/grown-up-christmas-list) | 2
 

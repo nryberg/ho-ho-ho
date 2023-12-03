@@ -1,9 +1,9 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Percy Faith & His Orchestra & Chorus](/artists/percy-faith-his-orchestra-chorus-30066836) | 68
-[Amy Grant](/artists/amy-grant-3053) | 53
-[Carrie Underwood](/artists/carrie-underwood-89416) | 31
-[Bing Crosby](/artists/bing-crosby-1864) | 1
+[Percy Faith & His Orchestra & Chorus](/artists/percy-faith-his-orchestra-chorus-30066836) | 69
+[Amy Grant](/artists/amy-grant-3053) | 58
+[Carrie Underwood](/artists/carrie-underwood-89416) | 33
 [Frank Sinatra](/artists/frank-sinatra-739) | 1
+[Bing Crosby](/artists/bing-crosby-1864) | 1
 

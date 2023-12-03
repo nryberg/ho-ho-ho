@@ -2,25 +2,25 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                             .-------------------------------------------. |
-| The Ronettes            369 |                                           | |
+| The Ronettes            377 |                                           | |
 |                             '-------------------------------------------' |
-| Johnny Mathis           348 |                                        |    |
+| Johnny Mathis           356 |                                        |    |
 |                             '----------------------------------------'    |
-| Amy Grant               200 |                      |                      |
+| The A-Strings           201 |                      |                      |
 |                             '----------------------'                      |
-| The A-Strings           197 |                      |                      |
+| Amy Grant               201 |                      |                      |
 |                             '----------------------'                      |
-| Air Supply              190 |                     |                       |
-|                             '---------------------'                       |
-| Andy Williams           119 |             |                               |
+| Air Supply              198 |                      |                      |
+|                             '----------------------'                      |
+| Andy Williams           120 |             |                               |
 |                             '-------------'                               |
-| Arthur Fiedler           91 |         |                                   |
+| Arthur Fiedler           94 |         |                                   |
 |                             '---------'                                   |
-| Boston Pops Orchestra    32 |  |                                          |
+| Boston Pops Orchestra    33 |  |                                          |
 |                             '--'                                          |
-| Carpenters                5 | |                                           |
-|                             '-'                                           |
 | Harry Connick, Jr.        5 | |                                           |
+|                             '-'                                           |
+| Carpenters                5 | |                                           |
 |                             '-'                                           |
 | Ray Conniff               4 | |                                           |
 |                             '-'                                           |

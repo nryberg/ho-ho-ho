@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Jingle Bells](/songs/jingle-bells) | 25
+[Jingle Bells](/songs/jingle-bells) | 28
 

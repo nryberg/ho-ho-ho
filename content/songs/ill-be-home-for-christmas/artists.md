@@ -1,7 +1,7 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kelly Clarkson](/artists/kelly-clarkson-34788) | 67
+[Kelly Clarkson](/artists/kelly-clarkson-34788) | 71
 [Amy Grant](/artists/amy-grant-3053) | 36
 [Frank Sinatra](/artists/frank-sinatra-739) | 33
 [Bing Crosby](/artists/bing-crosby-1864) | 12
