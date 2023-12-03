@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Mistletoe](/songs/mistletoe) | 6
+[Mistletoe](/songs/mistletoe) | 7
 

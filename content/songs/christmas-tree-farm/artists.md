@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Taylor Swift](/artists/taylor-swift-33221) | 45
+[Taylor Swift](/artists/taylor-swift-33221) | 49
 

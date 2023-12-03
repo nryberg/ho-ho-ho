@@ -2,12 +2,12 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                         .-------------------------------. |
-| Brett Eldredge                      129 |                               | |
+| Brett Eldredge                      131 |                               | |
 |                                         '-------------------------------' |
-| Dean Martin                          69 |                |                |
+| Dean Martin                          72 |                |                |
 |                                         '----------------'                |
-| Vanessa Williams & Bobby Caldwell    24 |    |                            |
-|                                         '----'                            |
+| Vanessa Williams & Bobby Caldwell    26 |     |                           |
+|                                         '-----'                           |
 | Idina Menzel                         12 | |                               |
 |                                         '-'                               |
 |                                                                           |

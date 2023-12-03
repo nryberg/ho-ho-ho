@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Cher](/artists/cher-31531) | 75
+[Cher](/artists/cher-31531) | 83
 

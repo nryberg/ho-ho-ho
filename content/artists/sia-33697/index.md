@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Snowman](/songs/snowman) | 9
-[Santa's Coming for Us](/songs/santas-coming-for-us) | 6
+[Snowman](/songs/snowman) | 10
+[Santa's Coming for Us](/songs/santas-coming-for-us) | 7
 

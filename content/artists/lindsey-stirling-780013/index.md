@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Joy To The World](/songs/joy-to-the-world) | 103
+[Joy To The World](/songs/joy-to-the-world) | 107
 [Angels We Have Heard On High](/songs/angels-we-have-heard-on-high) | 2
 

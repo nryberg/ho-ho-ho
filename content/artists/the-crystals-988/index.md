@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town) | 238
-[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 9
+[Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town) | 251
+[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 14
 

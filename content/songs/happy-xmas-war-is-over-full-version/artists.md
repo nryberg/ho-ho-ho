@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[John Lennon](/artists/john-lennon-972) | 262
+[John Lennon](/artists/john-lennon-972) | 279
 

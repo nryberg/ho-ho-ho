@@ -2,19 +2,21 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                           .---------------------------------------------. |
-| The Drifters          253 |                                             | |
+| The Drifters          270 |                                             | |
 |                           '---------------------------------------------' |
-| Darlene Love           27 |   |                                           |
+| Darlene Love           28 |   |                                           |
 |                           '---'                                           |
-| Meghan Trainor         23 |   |                                           |
+| Meghan Trainor         25 |   |                                           |
 |                           '---'                                           |
 | Michael Bublé          21 |  |                                            |
 |                           '--'                                            |
 | Chicago                12 | |                                             |
 |                           '-'                                             |
+| Bette Midler            5 | |                                             |
+|                           '-'                                             |
 | Barry Manilow           5 | |                                             |
 |                           '-'                                             |
-| Bette Midler            5 | |                                             |
+| Bing Crosby             3 | |                                             |
 |                           '-'                                             |
 | Sir Elton John & me     2 | |                                             |
 |                           '-'                                             |

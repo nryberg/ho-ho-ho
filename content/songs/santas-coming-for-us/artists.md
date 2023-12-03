@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Sia](/artists/sia-33697) | 6
+[Sia](/artists/sia-33697) | 7
 

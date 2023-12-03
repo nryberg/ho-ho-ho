@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Gwen Stefani](/artists/gwen-stefani-36636) | 8
+[Gwen Stefani](/artists/gwen-stefani-36636) | 9
 

@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Christmas Tree Farm](/songs/christmas-tree-farm) | 45
+[Christmas Tree Farm](/songs/christmas-tree-farm) | 49
 [Cruel Summer](/songs/cruel-summer) | 1
 

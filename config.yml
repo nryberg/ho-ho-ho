@@ -150,6 +150,8 @@ params:
               url: top/prolific_artists
             - name: Most Covered Songs
               url: top/most_covered_songs              
+            - name: Recent Additions
+              url: top/recent_adds
             # - name: Tags
             #   url: tags
 

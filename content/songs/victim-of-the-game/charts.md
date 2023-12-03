@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                       .-------------------------------------------------. |
-| Amy Grant         375 |                                                 | |
+| Amy Grant         397 |                                                 | |
 |                       '-------------------------------------------------' |
-| Martina McBride   211 |                           |                       |
+| Martina McBride   228 |                           |                       |
 |                       '---------------------------'                       |
-| Andy Williams     194 |                        |                          |
+| Andy Williams     202 |                        |                          |
 |                       '------------------------'                          |
-| Colbie Caillat     72 |        |                                          |
+| Colbie Caillat     73 |        |                                          |
 |                       '--------'                                          |
-| Tony Bennett       53 |      |                                            |
-|                       '------'                                            |
-| Air Supply         44 |    |                                              |
+| Tony Bennett       55 |     |                                             |
+|                       '-----'                                             |
+| Air Supply         46 |    |                                              |
 |                       '----'                                              |
-| Barry Manilow      16 | |                                                 |
+| Barry Manilow      17 | |                                                 |
 |                       '-'                                                 |
 | Darlene Love       14 | |                                                 |
 |                       '-'                                                 |
-| Pentatonix          3 | |                                                 |
+| Pentatonix          4 | |                                                 |
 |                       '-'                                                 |
 | James Taylor        1 | |                                                 |
 |                       '-'                                                 |

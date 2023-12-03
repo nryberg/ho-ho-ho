@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Mele Kalikimaka](/songs/mele-kalikimaka) | 6
+[Mele Kalikimaka](/songs/mele-kalikimaka) | 7
 

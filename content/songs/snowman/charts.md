@@ -2,21 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Bing Crosby                            220 |                            | |
+| Ray Conniff                            236 |                            | |
 |                                            '----------------------------' |
-| Ray Conniff                            220 |                            | |
+| Bing Crosby                            236 |                            | |
 |                                            '----------------------------' |
-| Willie Nelson                          218 |                           |  |
+| Willie Nelson                          234 |                           |  |
 |                                            '---------------------------'  |
-| The Beach Boys                          85 |          |                   |
-|                                            '----------'                   |
-| Kimberley Locke                         77 |         |                    |
+| The Beach Boys                          88 |         |                    |
 |                                            '---------'                    |
-| Gene Autry with The Cass County Boys    60 |      |                       |
+| Kimberley Locke                         81 |        |                     |
+|                                            '--------'                     |
+| Gene Autry with The Cass County Boys    64 |      |                       |
 |                                            '------'                       |
-| The Ronettes                            54 |      |                       |
+| The Ronettes                            60 |      |                       |
 |                                            '------'                       |
-| Sia                                      9 | |                            |
+| Sia                                     10 | |                            |
+|                                            '-'                            |
+| Jimmy Durante                            5 | |                            |
 |                                            '-'                            |
 |                                                                           |
 '---------------------------------------------------------------------------'
