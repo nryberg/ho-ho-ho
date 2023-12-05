@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[My Favorite Things](/songs/my-favorite-things) | 18
+[My Favorite Things](/songs/my-favorite-things) | 23
 

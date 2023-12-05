@@ -8,11 +8,11 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Jingle Bells](/songs/jingle-bells) | 430
-[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 212
-[The Christmas Waltz](/songs/the-christmas-waltz) | 57
-[Adeste Fideles (O Come All Ye Faithful)](/songs/adeste-fideles-o-come-all-ye-faithful) | 42
-[Silent Night](/songs/silent-night) | 37
+[Jingle Bells](/songs/jingle-bells) | 478
+[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 236
+[The Christmas Waltz](/songs/the-christmas-waltz) | 61
+[Adeste Fideles (O Come All Ye Faithful)](/songs/adeste-fideles-o-come-all-ye-faithful) | 54
+[Silent Night](/songs/silent-night) | 47
 [I'll Be Home For Christmas (If Only In My Dreams)](/songs/ill-be-home-for-christmas-if-only-in-my-dreams) | 33
 [Hark the Herald Angel Sing](/songs/hark-the-herald-angel-sing) | 6
 [Misty](/songs/misty) | 2

@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[The Christmas Song](/songs/the-christmas-song) | 41
+[The Christmas Song](/songs/the-christmas-song) | 42
 

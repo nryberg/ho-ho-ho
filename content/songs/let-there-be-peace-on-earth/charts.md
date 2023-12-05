@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                       .-------------------------------------------------. |
-| Amy Grant         402 |                                                 | |
+| Amy Grant         460 |                                                 | |
 |                       '-------------------------------------------------' |
-| Martina McBride   231 |                           |                       |
+| Martina McBride   263 |                           |                       |
 |                       '---------------------------'                       |
-| Andy Williams     206 |                        |                          |
+| Andy Williams     231 |                        |                          |
 |                       '------------------------'                          |
-| Colbie Caillat     74 |        |                                          |
-|                       '--------'                                          |
-| Tony Bennett       57 |      |                                            |
+| Colbie Caillat     80 |       |                                           |
+|                       '-------'                                           |
+| Tony Bennett       67 |      |                                            |
 |                       '------'                                            |
-| Air Supply         47 |    |                                              |
-|                       '----'                                              |
-| Barry Manilow      17 | |                                                 |
+| Air Supply         62 |     |                                             |
+|                       '-----'                                             |
+| Barry Manilow      18 | |                                                 |
 |                       '-'                                                 |
 | Darlene Love       14 | |                                                 |
 |                       '-'                                                 |
-| Pentatonix          5 | |                                                 |
+| Pentatonix          6 | |                                                 |
 |                       '-'                                                 |
 | James Taylor        1 | |                                                 |
 |                       '-'                                                 |

@@ -2,21 +2,21 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                           .---------------------------------------------. |
-| The Drifters          276 |                                             | |
+| The Drifters          296 |                                             | |
 |                           '---------------------------------------------' |
-| Darlene Love           29 |   |                                           |
+| Darlene Love           34 |    |                                          |
+|                           '----'                                          |
+| Michael Bublé          27 |   |                                           |
 |                           '---'                                           |
-| Meghan Trainor         25 |   |                                           |
+| Meghan Trainor         26 |   |                                           |
 |                           '---'                                           |
-| Michael Bublé          21 |  |                                            |
-|                           '--'                                            |
+| Bing Crosby            17 | |                                             |
+|                           '-'                                             |
 | Chicago                12 | |                                             |
 |                           '-'                                             |
-| Bing Crosby             8 | |                                             |
+| Barry Manilow           5 | |                                             |
 |                           '-'                                             |
 | Bette Midler            5 | |                                             |
-|                           '-'                                             |
-| Barry Manilow           5 | |                                             |
 |                           '-'                                             |
 | Sir Elton John & me     2 | |                                             |
 |                           '-'                                             |

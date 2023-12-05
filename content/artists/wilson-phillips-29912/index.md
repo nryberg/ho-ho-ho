@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 21
-[Silent Night](/songs/silent-night) | 13
+[Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 26
+[Silent Night](/songs/silent-night) | 19
 

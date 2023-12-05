@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Cozy Little Christmas](/songs/cozy-little-christmas) | 39
+[Cozy Little Christmas](/songs/cozy-little-christmas) | 44
 

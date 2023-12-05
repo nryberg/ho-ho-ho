@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 30
+[Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 32
 [Used To Be Young](/songs/used-to-be-young) | 1
 

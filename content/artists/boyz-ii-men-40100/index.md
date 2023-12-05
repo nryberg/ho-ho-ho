@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Silent Night](/songs/silent-night) | 3
+[Silent Night](/songs/silent-night) | 4
 

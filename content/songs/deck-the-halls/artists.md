@@ -1,10 +1,10 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Percy Faith](/artists/percy-faith-120889) | 272
-[The Johnny Mann Singers](/artists/the-johnny-mann-singers-30064353) | 76
-[Ted Nugent](/artists/ted-nugent-40670) | 48
-[Kenny G](/artists/kenny-g-7789) | 39
-[Mannheim Steamroller](/artists/mannheim-steamroller-39605) | 37
-[Nat King Cole](/artists/nat-king-cole-3428) | 35
+[Percy Faith](/artists/percy-faith-120889) | 306
+[The Johnny Mann Singers](/artists/the-johnny-mann-singers-30064353) | 91
+[Ted Nugent](/artists/ted-nugent-40670) | 54
+[Mannheim Steamroller](/artists/mannheim-steamroller-39605) | 41
+[Nat King Cole](/artists/nat-king-cole-3428) | 40
+[Kenny G](/artists/kenny-g-7789) | 40
 

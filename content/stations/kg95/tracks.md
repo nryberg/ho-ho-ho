@@ -7,13 +7,13 @@ headless: true
 
 | Track | Plays |
 | --- |  ---: |
-|[Sleigh Ride](/songs/sleigh-ride)| 225|
-|[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree)| 126|
-|[Winter Wonderland](/songs/winter-wonderland)| 124|
-|[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer)| 121|
-|[Jingle Bells](/songs/jingle-bells)| 96|
-|[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas)| 91|
-|[Let It Snow! Let It Snow! Let It Snow!](/songs/let-it-snow-let-it-snow-let-it-snow)| 87|
-|[This Christmas](/songs/this-christmas)| 80|
-|[Carol Of The Bells](/songs/carol-of-the-bells)| 79|
-|[Frosty the Snowman](/songs/frosty-the-snowman)| 79|
+|[Sleigh Ride](/songs/sleigh-ride)| 252|
+|[Winter Wonderland](/songs/winter-wonderland)| 143|
+|[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree)| 136|
+|[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer)| 135|
+|[Jingle Bells](/songs/jingle-bells)| 105|
+|[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas)| 99|
+|[Let It Snow! Let It Snow! Let It Snow!](/songs/let-it-snow-let-it-snow-let-it-snow)| 95|
+|[This Christmas](/songs/this-christmas)| 91|
+|[Frosty the Snowman](/songs/frosty-the-snowman)| 90|
+|[Carol Of The Bells](/songs/carol-of-the-bells)| 89|

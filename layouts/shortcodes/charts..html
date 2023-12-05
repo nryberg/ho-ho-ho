@@ -1,0 +1,2 @@
+{{ $charts := $.Page.Resources.GetMatch "charts.md" }} {{if $charts }}
+<span>{{$charts.Content}}</span> {{ end }}
