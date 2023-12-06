@@ -8,8 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Carol of the Bells](/songs/carol-of-the-bells) | 446
-[Faeries](/songs/faeries) | 72
+[Carol of the Bells](/songs/carol-of-the-bells) | 465
+[Faeries](/songs/faeries) | 79
 [Deck the Halls](/songs/deck-the-halls) | 41
 [We Three Kings](/songs/we-three-kings) | 36
 [God Rest Ye Merry, Gentlemen (Rock)](/songs/god-rest-ye-merry-gentlemen-rock) | 6

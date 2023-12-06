@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Chuck Berry](/artists/chuck-berry-644) | 276
+[Chuck Berry](/artists/chuck-berry-644) | 296
 

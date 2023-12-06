@@ -7,13 +7,13 @@ headless: true
 
 | Track | Plays |
 | --- |  ---: |
-|[Sleigh Ride](/songs/sleigh-ride)| 254|
-|[Winter Wonderland](/songs/winter-wonderland)| 162|
-|[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree)| 151|
-|[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer)| 138|
-|[Jingle Bells](/songs/jingle-bells)| 102|
-|[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas)| 101|
-|[This Christmas](/songs/this-christmas)| 98|
-|[Let It Snow! Let It Snow! Let It Snow!](/songs/let-it-snow-let-it-snow-let-it-snow)| 94|
-|[Carol Of The Bells](/songs/carol-of-the-bells)| 87|
-|[It's the Most Wonderful Time of the Year](/songs/its-the-most-wonderful-time-of-the-year)| 82|
+|[Sleigh Ride](/songs/sleigh-ride)| 268|
+|[Winter Wonderland](/songs/winter-wonderland)| 172|
+|[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree)| 159|
+|[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer)| 148|
+|[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas)| 109|
+|[Jingle Bells](/songs/jingle-bells)| 108|
+|[This Christmas](/songs/this-christmas)| 103|
+|[Let It Snow! Let It Snow! Let It Snow!](/songs/let-it-snow-let-it-snow-let-it-snow)| 100|
+|[Carol Of The Bells](/songs/carol-of-the-bells)| 94|
+|[It's the Most Wonderful Time of the Year](/songs/its-the-most-wonderful-time-of-the-year)| 89|

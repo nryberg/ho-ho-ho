@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Little Drummer Boy](/songs/little-drummer-boy) | 1
+[Little Drummer Boy](/songs/little-drummer-boy) | 2
 [Old Time Rock & Roll](/songs/old-time-rock-roll) | 1
 

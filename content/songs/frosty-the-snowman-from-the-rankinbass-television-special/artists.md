@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Jimmy Durante](/artists/jimmy-durante-13750) | 19
+[Jimmy Durante](/artists/jimmy-durante-13750) | 22
 

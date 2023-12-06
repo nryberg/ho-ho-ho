@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Winter Wonderland](/songs/winter-wonderland) | 80
+[Winter Wonderland](/songs/winter-wonderland) | 82
 

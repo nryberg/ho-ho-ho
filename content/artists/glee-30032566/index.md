@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Last Christmas](/songs/last-christmas) | 120
+[Last Christmas](/songs/last-christmas) | 122
 

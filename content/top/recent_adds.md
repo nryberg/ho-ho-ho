@@ -9,14 +9,14 @@ ShowToc: false
 ## Songs
 Title | Artist | First Played 
 ----- | ------ | ----------- 
+[O Holy Night](/songs/o-holy-night) | [Elizabeth Chan](/artists/elizabeth-chan-793805) | 12-06
+[Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town) | [Michael Bublé](/artists/michael-buble-58319) | 12-05
+[Let It Snow! Let It Snow! Let It Snow!](/songs/let-it-snow-let-it-snow-let-it-snow) | [Chicago](/artists/chicago-5663) | 12-05
+[Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | [Burl Ives](/artists/burl-ives-1117) | 12-05
+[River](/songs/river) | [Joni Mitchell](/artists/joni-mitchell-3606) | 12-05
+[Hark! the Herald Angels Sing](/songs/hark-the-herald-angels-sing) | [Nat King Cole](/artists/nat-king-cole-3428) | 12-05
+[Jingle Bells (with Orchestra)](/songs/jingle-bells-with-orchestra) | [Pentatonix](/artists/pentatonix-655231) | 12-05
+[Little Drummer Boy](/songs/little-drummer-boy) | [Carrie Underwood](/artists/carrie-underwood-89416) | 12-05
 [The First Noel](/songs/the-first-noel) | [*NSYNC](/artists/nsync-31882) | 12-05
 [We Need A Little Christmas](/songs/we-need-a-little-christmas) | [Pentatonix](/artists/pentatonix-655231) | 12-04
-[Let It Be Christmas](/songs/let-it-be-christmas) | [Alan Jackson](/artists/alan-jackson-69978) | 12-04
-[God Rest Ye Merry Gentleman](/songs/god-rest-ye-merry-gentleman) | [Bing Crosby](/artists/bing-crosby-1864) | 12-04
-[Silent Night](/songs/silent-night) | [Nat King Cole](/artists/nat-king-cole-3428) | 12-04
-[Angels We Have Heard On High](/songs/angels-we-have-heard-on-high) | [Percy Faith & His Orchestra](/artists/percy-faith-his-orchestra-20216) | 12-03
-[Frosty the Snowman (From the Rankin/Bass Television Special)](/songs/frosty-the-snowman-from-the-rankinbass-television-special) | [Jimmy Durante](/artists/jimmy-durante-13750) | 12-03
-[Little Drummer Boy](/songs/little-drummer-boy) | [Bob Seger & The Silver Bullet Band](/artists/bob-seger-the-silver-bullet-band-105037) | 12-02
-[White Christmas](/songs/white-christmas) | [Bing Crosby](/artists/bing-crosby-1864) | 12-02
-[Jingle Bell Rock](/songs/jingle-bell-rock) | [Bobby Helms](/artists/bobby-helms-10048) | 12-01
 

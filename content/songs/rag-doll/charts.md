@@ -2,21 +2,21 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                           .---------------------------------------------. |
-| The Drifters          296 |                                             | |
+| The Drifters          318 |                                             | |
 |                           '---------------------------------------------' |
-| Darlene Love           34 |    |                                          |
-|                           '----'                                          |
-| Michael Bublé          27 |   |                                           |
+| Darlene Love           34 |   |                                           |
 |                           '---'                                           |
-| Meghan Trainor         26 |   |                                           |
+| Michael Bublé          28 |   |                                           |
 |                           '---'                                           |
-| Bing Crosby            17 | |                                             |
-|                           '-'                                             |
+| Meghan Trainor         28 |   |                                           |
+|                           '---'                                           |
+| Bing Crosby            23 |  |                                            |
+|                           '--'                                            |
 | Chicago                12 | |                                             |
 |                           '-'                                             |
-| Barry Manilow           5 | |                                             |
-|                           '-'                                             |
 | Bette Midler            5 | |                                             |
+|                           '-'                                             |
+| Barry Manilow           5 | |                                             |
 |                           '-'                                             |
 | Sir Elton John & me     2 | |                                             |
 |                           '-'                                             |

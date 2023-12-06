@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Small Town Christmas](/songs/small-town-christmas) | 10
-[A New York Christmas](/songs/a-new-york-christmas) | 2
+[Small Town Christmas](/songs/small-town-christmas) | 11
+[A New York Christmas](/songs/a-new-york-christmas) | 3
 

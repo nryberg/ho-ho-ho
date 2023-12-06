@@ -2,43 +2,43 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                           .-----------------------------. |
-| Frank Sinatra                         236 |                             | |
+| Frank Sinatra                         251 |                             | |
 |                                           '-----------------------------' |
-| Carpenters                            120 |              |                |
-|                                           '--------------'                |
-| Sarah McLachlan                        91 |          |                    |
+| Carpenters                            123 |             |                 |
+|                                           '-------------'                 |
+| Sarah McLachlan                        94 |          |                    |
 |                                           '----------'                    |
-| Luther Vandross                        87 |          |                    |
-|                                           '----------'                    |
-| Goo Goo Dolls                          85 |         |                     |
+| Luther Vandross                        91 |         |                     |
 |                                           '---------'                     |
-| Barbra Streisand                       80 |         |                     |
+| Goo Goo Dolls                          88 |         |                     |
 |                                           '---------'                     |
-| John Legend                            73 |        |                      |
+| John Legend                            82 |        |                      |
 |                                           '--------'                      |
-| James Taylor                           46 |    |                          |
+| Barbra Streisand                       82 |        |                      |
+|                                           '--------'                      |
+| Kenny G                                51 |     |                         |
+|                                           '-----'                         |
+| Andy Williams                          48 |    |                          |
 |                                           '----'                          |
-| Kenny G                                45 |    |                          |
+| James Taylor                           48 |    |                          |
 |                                           '----'                          |
-| Andy Williams                          42 |    |                          |
-|                                           '----'                          |
-| Coldplay                               41 |    |                          |
-|                                           '----'                          |
-| Kelsea Ballerini                       37 |   |                           |
+| Coldplay                               41 |   |                           |
 |                                           '---'                           |
-| Barry Manilow                          25 |  |                            |
-|                                           '--'                            |
+| Kelsea Ballerini                       38 |   |                           |
+|                                           '---'                           |
+| Barry Manilow                          25 | |                             |
+|                                           '-'                             |
 | Josh Groban                            23 | |                             |
 |                                           '-'                             |
-| Amy Grant                              19 | |                             |
+| Amy Grant                              20 | |                             |
 |                                           '-'                             |
-| Sam Smith                              14 | |                             |
+| Sam Smith                              18 | |                             |
 |                                           '-'                             |
-| Mary J. Blige                           8 | |                             |
-|                                           '-'                             |
-| The Pretenders                          6 | |                             |
+| Mary J. Blige                           9 | |                             |
 |                                           '-'                             |
 | Tony Bennett                            6 | |                             |
+|                                           '-'                             |
+| The Pretenders                          6 | |                             |
 |                                           '-'                             |
 | David Archuleta & Charice Pempengco     4 | |                             |
 |                                           '-'                             |
