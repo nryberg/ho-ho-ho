@@ -1,9 +1,9 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Frank Sinatra](/artists/frank-sinatra-739) | 48
-[Wilson Phillips](/artists/wilson-phillips-29912) | 23
-[Nat King Cole](/artists/nat-king-cole-3428) | 7
+[Frank Sinatra](/artists/frank-sinatra-739) | 50
+[Wilson Phillips](/artists/wilson-phillips-29912) | 24
+[Nat King Cole](/artists/nat-king-cole-3428) | 18
 [Boyz II Men](/artists/boyz-ii-men-40100) | 5
 [Josh Groban](/artists/josh-groban-58260) | 4
 [Pentatonix](/artists/pentatonix-655231) | 3

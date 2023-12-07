@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[The Girl Is Mine](/songs/the-girl-is-mine) | 27
-[Human Nature](/songs/human-nature) | 1
+[The Girl Is Mine](/songs/the-girl-is-mine) | 28
 [Bad](/songs/bad) | 1
+[Human Nature](/songs/human-nature) | 1
 

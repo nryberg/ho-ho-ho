@@ -8,8 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[We Wish You a Merry Christmas](/songs/we-wish-you-a-merry-christmas) | 181
-[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 51
-[Medley: Deck the Halls / The Twelve Days of Christmas](/songs/medley-deck-the-halls-the-twelve-days-of-christmas) | 45
-[Silver Bells](/songs/silver-bells) | 38
+[We Wish You a Merry Christmas](/songs/we-wish-you-a-merry-christmas) | 194
+[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 53
+[Medley: Deck the Halls / The Twelve Days of Christmas](/songs/medley-deck-the-halls-the-twelve-days-of-christmas) | 46
+[Silver Bells](/songs/silver-bells) | 39
 

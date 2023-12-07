@@ -2,11 +2,11 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Percy Faith & His Orchestra & Chorus    31 |                            | |
+| Percy Faith & His Orchestra & Chorus    34 |                            | |
 |                                            '----------------------------' |
-| The New Christy Minstrels               18 |               |              |
-|                                            '---------------'              |
-| Johnny Mathis                            6 |    |                         |
+| The New Christy Minstrels               18 |              |               |
+|                                            '--------------'               |
+| Johnny Mathis                            7 |    |                         |
 |                                            '----'                         |
 | Pentatonix                               1 | |                            |
 |                                            '-'                            |

@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[O Holy Night](/songs/o-holy-night) | 13
+[O Holy Night](/songs/o-holy-night) | 14
 

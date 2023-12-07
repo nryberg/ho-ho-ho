@@ -20,4 +20,6 @@ resources:
 
 **First Aired**: 1968
 
+{{< charts >}}
+
 {{< tracks >}}

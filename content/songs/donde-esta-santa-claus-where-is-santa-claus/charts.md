@@ -2,15 +2,15 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Andy Williams                           45 |                            | |
+| Andy Williams                           46 |                            | |
 |                                            '----------------------------' |
-| Percy Faith & His Orchestra & Chorus    36 |                      |       |
+| Percy Faith & His Orchestra & Chorus    38 |                      |       |
 |                                            '----------------------'       |
-| *NSYNC                                  32 |                   |          |
-|                                            '-------------------'          |
+| *NSYNC                                  36 |                     |        |
+|                                            '---------------------'        |
 | Steve Lawrence & Eydie Gorme            21 |            |                 |
 |                                            '------------'                 |
-| Barry Manilow                            5 |  |                           |
+| Barry Manilow                            6 |  |                           |
 |                                            '--'                           |
 | Johnny Mathis                            4 | |                            |
 |                                            '-'                            |

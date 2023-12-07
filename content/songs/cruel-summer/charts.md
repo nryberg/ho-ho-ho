@@ -2,17 +2,17 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                     .-----------------------------------. |
-| Burl Ives                       482 |                                   | |
+| Burl Ives                       507 |                                   | |
 |                                     '-----------------------------------' |
-| Dean Martin                     472 |                                  |  |
+| Dean Martin                     504 |                                  |  |
 |                                     '----------------------------------'  |
-| Harry Connick, Jr.              258 |                  |                  |
+| Harry Connick, Jr.              273 |                  |                  |
 |                                     '------------------'                  |
-| Gene Autry                      186 |            |                        |
+| Gene Autry                      197 |            |                        |
 |                                     '------------'                        |
-| Jack Johnson                     66 |   |                                 |
+| Jack Johnson                     70 |   |                                 |
 |                                     '---'                                 |
-| The Ray Conniff Singers          47 |  |                                  |
+| The Ray Conniff Singers          49 |  |                                  |
 |                                     '--'                                  |
 | Gene Autry with The Pinafores    25 | |                                   |
 |                                     '-'                                   |

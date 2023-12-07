@@ -16,8 +16,6 @@ resources:
 
 {{< more >}}
 
-{{< charts >}}
-
 {{< tracks >}}
 
 

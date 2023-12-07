@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Christmas (Baby Please Come Home)](/songs/christmas-baby-please-come-home) | 294
+[Christmas (Baby Please Come Home)](/songs/christmas-baby-please-come-home) | 313
 [White Christmas](/songs/white-christmas) | 34
 [Winter Wonderland](/songs/winter-wonderland) | 14
 [Marshmallow World](/songs/marshmallow-world) | 3

@@ -20,4 +20,6 @@ resources:
 
 First Aired: 1957
 
+{{< charts >}}
+
 {{< tracks >}}

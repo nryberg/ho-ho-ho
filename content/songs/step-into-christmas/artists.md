@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Elton John](/artists/elton-john-5041) | 56
+[Elton John](/artists/elton-john-5041) | 59
 

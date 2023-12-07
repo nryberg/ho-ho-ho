@@ -2,22 +2,22 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Ray Conniff                            293 |                            | |
+| Ray Conniff                            317 |                            | |
 |                                            '----------------------------' |
-| Bing Crosby                            281 |                          |   |
+| Bing Crosby                            296 |                          |   |
 |                                            '--------------------------'   |
-| Willie Nelson                          280 |                          |   |
-|                                            '--------------------------'   |
-| The Beach Boys                         107 |         |                    |
+| Willie Nelson                          295 |                         |    |
+|                                            '-------------------------'    |
+| Kimberley Locke                        117 |         |                    |
 |                                            '---------'                    |
-| Kimberley Locke                        107 |         |                    |
+| The Beach Boys                         110 |         |                    |
 |                                            '---------'                    |
-| Gene Autry with The Cass County Boys    79 |      |                       |
+| Gene Autry with The Cass County Boys    83 |      |                       |
 |                                            '------'                       |
-| The Ronettes                            69 |     |                        |
+| The Ronettes                            70 |     |                        |
 |                                            '-----'                        |
-| Jimmy Durante                           22 | |                            |
-|                                            '-'                            |
+| Jimmy Durante                           36 |  |                           |
+|                                            '--'                           |
 |                                                                           |
 '---------------------------------------------------------------------------'
 ```

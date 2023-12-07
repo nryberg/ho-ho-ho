@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Train](/artists/train-90187) | 7
+[Train](/artists/train-90187) | 8
 

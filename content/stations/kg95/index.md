@@ -12,4 +12,6 @@ TocOpen: false
 
 **First Aired**: 1974
 
+{{< charts >}}
+
 {{< tracks >}}
