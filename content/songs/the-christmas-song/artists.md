@@ -1,8 +1,8 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Tony Bennett](/artists/tony-bennett-2564) | 57
-[Celine Dion](/artists/celine-dion-39068) | 54
+[Tony Bennett](/artists/tony-bennett-2564) | 59
+[Celine Dion](/artists/celine-dion-39068) | 56
 [Al Jarreau](/artists/al-jarreau-1769) | 45
 [Johnny Mathis](/artists/johnny-mathis-14581) | 22
 [Nat King Cole](/artists/nat-king-cole-3428) | 22

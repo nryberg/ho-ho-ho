@@ -1,8 +1,8 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Elvis Presley](/artists/elvis-presley-1014) | 101
-[Dean Martin](/artists/dean-martin-6555) | 91
+[Elvis Presley](/artists/elvis-presley-1014) | 112
+[Dean Martin](/artists/dean-martin-6555) | 93
 [Burl Ives](/artists/burl-ives-1117) | 76
 [Johnny Mathis](/artists/johnny-mathis-14581) | 60
 [Kenny G](/artists/kenny-g-7789) | 39

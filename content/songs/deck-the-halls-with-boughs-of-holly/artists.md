@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Percy Faith](/artists/percy-faith-120889) | 354
+[Percy Faith](/artists/percy-faith-120889) | 366
 

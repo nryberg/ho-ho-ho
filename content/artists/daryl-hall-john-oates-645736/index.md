@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Jingle Bell Rock](/songs/jingle-bell-rock) | 44
+[Jingle Bell Rock](/songs/jingle-bell-rock) | 46
 

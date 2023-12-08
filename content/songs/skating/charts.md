@@ -2,19 +2,19 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                           .---------------------------------------------. |
-| The Drifters          338 |                                             | |
+| The Drifters          350 |                                             | |
 |                           '---------------------------------------------' |
 | Darlene Love           34 |   |                                           |
 |                           '---'                                           |
-| Bing Crosby            31 |   |                                           |
+| Bing Crosby            32 |   |                                           |
 |                           '---'                                           |
-| Michael Bublé          30 |   |                                           |
+| Meghan Trainor         31 |   |                                           |
 |                           '---'                                           |
-| Meghan Trainor         30 |   |                                           |
-|                           '---'                                           |
+| Michael Bublé          30 |  |                                            |
+|                           '--'                                            |
 | Chicago                12 | |                                             |
 |                           '-'                                             |
-| Barry Manilow           6 | |                                             |
+| Barry Manilow           7 | |                                             |
 |                           '-'                                             |
 | Bette Midler            5 | |                                             |
 |                           '-'                                             |

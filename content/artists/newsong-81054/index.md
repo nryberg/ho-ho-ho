@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[The Christmas Shoes](/songs/the-christmas-shoes) | 1
+[The Christmas Shoes](/songs/the-christmas-shoes) | 2
 

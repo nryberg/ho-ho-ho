@@ -1,7 +1,7 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Celine Dion](/artists/celine-dion-39068) | 54
+[Celine Dion](/artists/celine-dion-39068) | 56
 [Carpenters](/artists/carpenters-39303) | 29
 [Johnny Mathis](/artists/johnny-mathis-14581) | 22
 [Nat King Cole](/artists/nat-king-cole-3428) | 22

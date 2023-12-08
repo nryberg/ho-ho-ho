@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Frosty the Snowman](/songs/frosty-the-snowman) | 295
+[Frosty the Snowman](/songs/frosty-the-snowman) | 305
 

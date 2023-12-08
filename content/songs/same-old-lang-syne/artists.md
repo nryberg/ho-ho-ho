@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Dan Fogelberg](/artists/dan-fogelberg-44601) | 3
+[Dan Fogelberg](/artists/dan-fogelberg-44601) | 4
 

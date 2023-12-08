@@ -9,5 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [Merry Christmas, Happy Holidays](/songs/merry-christmas-happy-holidays) | 36
-[The First Noel](/songs/the-first-noel) | 4
+[The First Noel](/songs/the-first-noel) | 5
 

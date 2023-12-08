@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                     .-----------------------------------. |
-| Burl Ives                       507 |                                   | |
+| Burl Ives                       526 |                                   | |
 |                                     '-----------------------------------' |
-| Dean Martin                     504 |                                  |  |
+| Dean Martin                     515 |                                  |  |
 |                                     '----------------------------------'  |
-| Harry Connick, Jr.              273 |                  |                  |
+| Harry Connick, Jr.              288 |                  |                  |
 |                                     '------------------'                  |
-| Gene Autry                      197 |            |                        |
+| Gene Autry                      201 |            |                        |
 |                                     '------------'                        |
 | Jack Johnson                     70 |   |                                 |
 |                                     '---'                                 |
-| The Ray Conniff Singers          49 |  |                                  |
+| The Ray Conniff Singers          50 |  |                                  |
 |                                     '--'                                  |
-| Gene Autry with The Pinafores    25 | |                                   |
+| Gene Autry with The Pinafores    26 | |                                   |
 |                                     '-'                                   |
-| The Crystals                     19 | |                                   |
+| The Crystals                     20 | |                                   |
 |                                     '-'                                   |
-| Elton John                        2 | |                                   |
+| Elton John                        3 | |                                   |
 |                                     '-'                                   |
 | The Chipmunks                     1 | |                                   |
 |                                     '-'                                   |

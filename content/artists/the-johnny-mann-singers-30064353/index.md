@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Deck the Halls](/songs/deck-the-halls) | 93
+[Deck the Halls](/songs/deck-the-halls) | 96
 

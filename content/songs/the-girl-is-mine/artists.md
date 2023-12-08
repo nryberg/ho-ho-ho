@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Michael Jackson](/artists/michael-jackson-6739) | 28
+[Michael Jackson](/artists/michael-jackson-6739) | 29
 

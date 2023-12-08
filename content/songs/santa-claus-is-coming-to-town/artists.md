@@ -1,9 +1,9 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Jackson 5](/artists/the-jackson-5-35053) | 550
-[The Crystals](/artists/the-crystals-988) | 309
-[Barry Manilow](/artists/barry-manilow-31897) | 93
+[The Jackson 5](/artists/the-jackson-5-35053) | 573
+[The Crystals](/artists/the-crystals-988) | 323
+[Barry Manilow](/artists/barry-manilow-31897) | 101
 [Tony Bennett](/artists/tony-bennett-2564) | 76
 [Wilson Phillips](/artists/wilson-phillips-29912) | 27
 [James Taylor](/artists/james-taylor-5709) | 3

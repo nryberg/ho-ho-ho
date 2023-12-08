@@ -1,8 +1,9 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[David Foster](/artists/david-foster-58573) | 509
-[Mannheim Steamroller](/artists/mannheim-steamroller-39605) | 493
-[John Tesh](/artists/john-tesh-17592) | 201
+[David Foster](/artists/david-foster-58573) | 527
+[Mannheim Steamroller](/artists/mannheim-steamroller-39605) | 510
+[John Tesh](/artists/john-tesh-17592) | 210
 [Percy Faith & His Orchestra](/artists/percy-faith-his-orchestra-20216) | 15
+[The Four Seasons](/artists/the-four-seasons-204930) | 1
 
