@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Happy Christmas (War Is Over)](/songs/happy-christmas-war-is-over) | 22
+[Happy Christmas (War Is Over)](/songs/happy-christmas-war-is-over) | 26
 

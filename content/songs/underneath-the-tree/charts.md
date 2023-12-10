@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                           .---------------------------------------------. |
-| The Drifters          350 |                                             | |
+| The Drifters          390 |                                             | |
 |                           '---------------------------------------------' |
-| Darlene Love           34 |   |                                           |
+| Bing Crosby            47 |    |                                          |
+|                           '----'                                          |
+| Darlene Love           42 |   |                                           |
 |                           '---'                                           |
-| Bing Crosby            32 |   |                                           |
+| Meghan Trainor         36 |   |                                           |
 |                           '---'                                           |
-| Meghan Trainor         31 |   |                                           |
-|                           '---'                                           |
-| Michael Bublé          30 |  |                                            |
+| Michael Bublé          32 |  |                                            |
 |                           '--'                                            |
 | Chicago                12 | |                                             |
 |                           '-'                                             |
 | Barry Manilow           7 | |                                             |
 |                           '-'                                             |
-| Bette Midler            5 | |                                             |
+| Bette Midler            6 | |                                             |
 |                           '-'                                             |
-| Sir Elton John & me     2 | |                                             |
+| Sir Elton John & me     3 | |                                             |
 |                           '-'                                             |
 | Michael Bolton          1 | |                                             |
 |                           '-'                                             |

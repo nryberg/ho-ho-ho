@@ -8,9 +8,9 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Have Yourself A Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 138
-[Sleight Ride](/songs/sleight-ride) | 66
-[Christmas Song (Chestnuts Roasting On An Open Fire)](/songs/christmas-song-chestnuts-roasting-on-an-open-fire) | 29
+[Have Yourself A Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 162
+[Sleight Ride](/songs/sleight-ride) | 73
+[Christmas Song (Chestnuts Roasting On An Open Fire)](/songs/christmas-song-chestnuts-roasting-on-an-open-fire) | 35
 [Sleigh Ride](/songs/sleigh-ride) | 6
 [Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 2
 

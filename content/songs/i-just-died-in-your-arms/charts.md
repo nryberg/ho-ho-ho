@@ -2,13 +2,13 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                 .---------------------------------------. |
-| Frank Sinatra               555 |                                       | |
+| Frank Sinatra               628 |                                       | |
 |                                 '---------------------------------------' |
-| The Ray Conniff Singers     261 |                 |                       |
-|                                 '-----------------'                       |
-| Barry Manilow with Exposé    38 | |                                       |
+| The Ray Conniff Singers     304 |                  |                      |
+|                                 '------------------'                      |
+| Barry Manilow with Exposé    46 | |                                       |
 |                                 '-'                                       |
-| Dean Martin                  17 | |                                       |
+| Dean Martin                  22 | |                                       |
 |                                 '-'                                       |
 | Pentatonix                    1 | |                                       |
 |                                 '-'                                       |

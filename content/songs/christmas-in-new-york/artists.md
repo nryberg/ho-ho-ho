@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Backstreet Boys](/artists/backstreet-boys-36645) | 3
+[Backstreet Boys](/artists/backstreet-boys-36645) | 4
 

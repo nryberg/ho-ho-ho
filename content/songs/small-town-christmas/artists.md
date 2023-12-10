@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Rob Thomas](/artists/rob-thomas-41846) | 13
+[Rob Thomas](/artists/rob-thomas-41846) | 14
 

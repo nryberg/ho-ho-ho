@@ -2,19 +2,19 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                     .-----------------------------------. |
-| Burl Ives                       526 |                                   | |
+| Burl Ives                       583 |                                   | |
 |                                     '-----------------------------------' |
-| Dean Martin                     515 |                                  |  |
+| Dean Martin                     578 |                                  |  |
 |                                     '----------------------------------'  |
-| Harry Connick, Jr.              288 |                  |                  |
-|                                     '------------------'                  |
-| Gene Autry                      201 |            |                        |
+| Harry Connick, Jr.              328 |                   |                 |
+|                                     '-------------------'                 |
+| Gene Autry                      224 |            |                        |
 |                                     '------------'                        |
-| Jack Johnson                     70 |   |                                 |
+| Jack Johnson                     72 |   |                                 |
 |                                     '---'                                 |
-| The Ray Conniff Singers          50 |  |                                  |
+| The Ray Conniff Singers          58 |  |                                  |
 |                                     '--'                                  |
-| Gene Autry with The Pinafores    26 | |                                   |
+| Gene Autry with The Pinafores    31 | |                                   |
 |                                     '-'                                   |
 | The Crystals                     20 | |                                   |
 |                                     '-'                                   |

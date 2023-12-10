@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Brandy](/artists/brandy-58641) | 29
+[Brandy](/artists/brandy-58641) | 40
 
