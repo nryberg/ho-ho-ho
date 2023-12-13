@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kimberley Locke](/artists/kimberley-locke-122102) | 87
+[Kimberley Locke](/artists/kimberley-locke-122102) | 88
 

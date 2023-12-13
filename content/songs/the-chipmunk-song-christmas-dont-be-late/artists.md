@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Chipmunks](/artists/the-chipmunks-29109) | 5
+[The Chipmunks](/artists/the-chipmunks-29109) | 6
 

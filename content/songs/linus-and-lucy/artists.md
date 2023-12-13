@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Vince Guaraldi Trio](/artists/vince-guaraldi-trio-37943) | 435
+[Vince Guaraldi Trio](/artists/vince-guaraldi-trio-37943) | 468
 

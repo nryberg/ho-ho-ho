@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Let It Snow, Let It Snow, Let It Snow](/songs/let-it-snow-let-it-snow-let-it-snow) | 99
-[Please Come Home For Christmas](/songs/please-come-home-for-christmas) | 44
+[Let It Snow, Let It Snow, Let It Snow](/songs/let-it-snow-let-it-snow-let-it-snow) | 103
+[Please Come Home For Christmas](/songs/please-come-home-for-christmas) | 49
 [The Christmas Song (Chestnuts Roasting On An Open Fire)](/songs/the-christmas-song-chestnuts-roasting-on-an-open-fire) | 4
 

@@ -2,21 +2,21 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Ray Conniff                            375 |                            | |
+| Ray Conniff                            401 |                            | |
 |                                            '----------------------------' |
-| Bing Crosby                            350 |                          |   |
-|                                            '--------------------------'   |
-| Willie Nelson                          331 |                        |     |
+| Bing Crosby                            371 |                         |    |
+|                                            '-------------------------'    |
+| Willie Nelson                          356 |                        |     |
 |                                            '------------------------'     |
-| Kimberley Locke                        143 |          |                   |
-|                                            '----------'                   |
-| The Beach Boys                         130 |         |                    |
+| Kimberley Locke                        148 |         |                    |
 |                                            '---------'                    |
-| Gene Autry with The Cass County Boys    99 |      |                       |
+| The Beach Boys                         135 |        |                     |
+|                                            '--------'                     |
+| Gene Autry with The Cass County Boys   104 |      |                       |
 |                                            '------'                       |
-| The Ronettes                            75 |    |                         |
+| The Ronettes                            79 |    |                         |
 |                                            '----'                         |
-| Jimmy Durante                           50 |  |                           |
+| Jimmy Durante                           55 |  |                           |
 |                                            '--'                           |
 | Sia                                     17 | |                            |
 |                                            '-'                            |

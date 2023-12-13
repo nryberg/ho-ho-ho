@@ -7,13 +7,13 @@ headless: true
 
 | Track | Plays |
 | --- |  ---: |
-|[Sleigh Ride](/songs/sleigh-ride)| 178|
-|[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree)| 171|
-|[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer)| 162|
-|[Winter Wonderland](/songs/winter-wonderland)| 159|
-|[This Christmas](/songs/this-christmas)| 142|
-|[Frosty the Snowman](/songs/frosty-the-snowman)| 124|
-|[Jingle Bell Rock](/songs/jingle-bell-rock)| 124|
-|[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas)| 124|
-|[Christmas (Baby Please Come Home)](/songs/christmas-baby-please-come-home)| 113|
-|[Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town)| 108|
+|[Sleigh Ride](/songs/sleigh-ride)| 187|
+|[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree)| 185|
+|[Winter Wonderland](/songs/winter-wonderland)| 172|
+|[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer)| 171|
+|[This Christmas](/songs/this-christmas)| 151|
+|[Frosty the Snowman](/songs/frosty-the-snowman)| 135|
+|[Have Yourself a Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas)| 134|
+|[Jingle Bell Rock](/songs/jingle-bell-rock)| 131|
+|[Christmas (Baby Please Come Home)](/songs/christmas-baby-please-come-home)| 120|
+|[Santa Claus Is Coming to Town](/songs/santa-claus-is-coming-to-town)| 116|

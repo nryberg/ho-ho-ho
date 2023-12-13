@@ -2,12 +2,12 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Percy Faith & His Orchestra & Chorus   109 |                            | |
+| Percy Faith & His Orchestra & Chorus   119 |                            | |
 |                                            '----------------------------' |
-| Amy Grant                               92 |                       |      |
+| Amy Grant                              100 |                       |      |
 |                                            '-----------------------'      |
-| Carrie Underwood                        44 |          |                   |
-|                                            '----------'                   |
+| Carrie Underwood                        45 |         |                    |
+|                                            '---------'                    |
 | Nat King Cole                            8 | |                            |
 |                                            '-'                            |
 | Bing Crosby                              1 | |                            |
