@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kenny Loggins](/artists/kenny-loggins-43545) | 17
+[Kenny Loggins](/artists/kenny-loggins-43545) | 19
 

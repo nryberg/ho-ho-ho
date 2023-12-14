@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                           .---------------------------------------------. |
-| The Drifters          414 |                                             | |
+| The Drifters          447 |                                             | |
 |                           '---------------------------------------------' |
-| Bing Crosby            52 |    |                                          |
+| Bing Crosby            61 |     |                                         |
+|                           '-----'                                         |
+| Meghan Trainor         53 |    |                                          |
 |                           '----'                                          |
-| Darlene Love           47 |    |                                          |
+| Darlene Love           49 |    |                                          |
 |                           '----'                                          |
-| Meghan Trainor         44 |   |                                           |
-|                           '---'                                           |
-| Michael Bublé          37 |   |                                           |
-|                           '---'                                           |
+| Michael Bublé          37 |  |                                            |
+|                           '--'                                            |
 | Chicago                13 | |                                             |
 |                           '-'                                             |
-| Barry Manilow           7 | |                                             |
+| Barry Manilow           8 | |                                             |
 |                           '-'                                             |
-| Bette Midler            6 | |                                             |
+| Bette Midler            7 | |                                             |
 |                           '-'                                             |
-| Sir Elton John & me     3 | |                                             |
+| Sir Elton John & me     4 | |                                             |
 |                           '-'                                             |
 | Michael Bolton          1 | |                                             |
 |                           '-'                                             |

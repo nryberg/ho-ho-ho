@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Justin Bieber](/artists/justin-bieber-44368) | 11
+[Justin Bieber](/artists/justin-bieber-44368) | 12
 

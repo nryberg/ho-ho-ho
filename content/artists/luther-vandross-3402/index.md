@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Have Yourself A Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 121
+[Have Yourself A Merry Little Christmas](/songs/have-yourself-a-merry-little-christmas) | 127
 

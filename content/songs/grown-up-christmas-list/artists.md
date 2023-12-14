@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[David Foster](/artists/david-foster-58573) | 3
+[David Foster](/artists/david-foster-58573) | 4
 

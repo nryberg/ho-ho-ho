@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[White Christmas](/songs/white-christmas) | 6
+[White Christmas](/songs/white-christmas) | 7
 [Mele Kalikimaka](/songs/mele-kalikimaka) | 1
 
