@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Carol Of The Bells](/songs/carol-of-the-bells) | 17
-[Angels We Have Heard On High](/songs/angels-we-have-heard-on-high) | 2
+[Carol Of The Bells](/songs/carol-of-the-bells) | 22
+[Angels We Have Heard On High](/songs/angels-we-have-heard-on-high) | 3
 [O Come All Ye Faithful](/songs/o-come-all-ye-faithful) | 1
 

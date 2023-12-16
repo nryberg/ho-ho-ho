@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Celebrate Me Home](/songs/celebrate-me-home) | 19
+[Celebrate Me Home](/songs/celebrate-me-home) | 20
 

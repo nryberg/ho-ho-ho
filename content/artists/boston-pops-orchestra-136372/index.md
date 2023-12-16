@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Anderson: Sleigh Ride](/songs/anderson-sleigh-ride) | 52
-[Handel: Messiah Hwv 56: Hallelujah (Part 2)](/songs/handel-messiah-hwv) | 51
+[Handel: Messiah Hwv 56: Hallelujah (Part 2)](/songs/handel-messiah-hwv) | 60
+[Anderson: Sleigh Ride](/songs/anderson-sleigh-ride) | 55
 

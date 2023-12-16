@@ -8,5 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
+[Winter Wonderland](/songs/winter-wonderland) | 1
 [Cherry, Cherry](/songs/cherry-cherry) | 1
 

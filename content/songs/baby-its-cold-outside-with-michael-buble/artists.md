@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Idina Menzel](/artists/idina-menzel-42581) | 25
+[Idina Menzel](/artists/idina-menzel-42581) | 43
 

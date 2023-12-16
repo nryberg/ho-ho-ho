@@ -1,7 +1,7 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Eagles](/artists/eagles-59842) | 113
-[Aaron Neville](/artists/aaron-neville-384) | 49
-[Kelly Clarkson](/artists/kelly-clarkson-34788) | 4
+[Eagles](/artists/eagles-59842) | 119
+[Aaron Neville](/artists/aaron-neville-384) | 51
+[Kelly Clarkson](/artists/kelly-clarkson-34788) | 5
 

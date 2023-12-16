@@ -8,8 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 667
-[Silver Bells](/songs/silver-bells) | 101
-[Silver And Gold](/songs/silver-and-gold) | 1
-[Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 1
+[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 729
+[Silver Bells](/songs/silver-bells) | 110
+[Silver And Gold](/songs/silver-and-gold) | 2
+[Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 2
 

@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[White Christmas (Album Version)](/songs/white-christmas-album-version) | 4
+[White Christmas (Album Version)](/songs/white-christmas-album-version) | 5
 

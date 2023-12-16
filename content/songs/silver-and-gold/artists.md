@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Burl Ives](/artists/burl-ives-1117) | 1
+[Burl Ives](/artists/burl-ives-1117) | 2
 

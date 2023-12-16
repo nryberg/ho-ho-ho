@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Pentatonix](/artists/pentatonix-655231) | 76
+[Pentatonix](/artists/pentatonix-655231) | 77
 

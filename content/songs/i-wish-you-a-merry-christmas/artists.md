@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Bing Crosby](/artists/bing-crosby-1864) | 413
+[Bing Crosby](/artists/bing-crosby-1864) | 453
 

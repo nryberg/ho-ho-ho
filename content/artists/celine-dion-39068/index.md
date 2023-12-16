@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 183
-[The Christmas Song (Chestnuts Roasting on an Open Fire)](/songs/the-christmas-song-chestnuts-roasting-on-an-open-fire) | 74
-[Adeste Fideles (O Come All Ye Faithful)](/songs/adeste-fideles-o-come-all-ye-faithful) | 32
+[Happy Xmas (War Is Over)](/songs/happy-xmas-war-is-over) | 200
+[The Christmas Song (Chestnuts Roasting on an Open Fire)](/songs/the-christmas-song-chestnuts-roasting-on-an-open-fire) | 85
+[Adeste Fideles (O Come All Ye Faithful)](/songs/adeste-fideles-o-come-all-ye-faithful) | 33
 

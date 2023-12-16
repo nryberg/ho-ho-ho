@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Last Christmas](/songs/last-christmas) | 268
+[Last Christmas](/songs/last-christmas) | 292
 [Christmas in New York](/songs/christmas-in-new-york) | 4
 [Everybody (Backstreet's Back)](/songs/everybody-backstreets-back) | 1
 

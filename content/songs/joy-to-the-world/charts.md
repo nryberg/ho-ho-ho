@@ -2,15 +2,15 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Lindsey Stirling                       182 |                            | |
+| Lindsey Stirling                       198 |                            | |
 |                                            '----------------------------' |
-| Percy Faith & His Orchestra & Chorus   165 |                         |    |
-|                                            '-------------------------'    |
-| Faith Hill                             117 |                 |            |
+| Percy Faith & His Orchestra & Chorus   172 |                        |     |
+|                                            '------------------------'     |
+| Faith Hill                             127 |                 |            |
 |                                            '-----------------'            |
-| Anne Murray                             49 |      |                       |
-|                                            '------'                       |
-| Whitney Houston                         42 |     |                        |
+| Anne Murray                             55 |       |                      |
+|                                            '-------'                      |
+| Whitney Houston                         45 |     |                        |
 |                                            '-----'                        |
 | Pentatonix                              10 | |                            |
 |                                            '-'                            |
