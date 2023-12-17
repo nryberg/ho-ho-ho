@@ -9,5 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [Joy To The World](/songs/joy-to-the-world) | 55
-[Silver Bells](/songs/silver-bells) | 37
+[Silver Bells](/songs/silver-bells) | 40
 

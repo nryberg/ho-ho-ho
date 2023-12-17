@@ -2,27 +2,27 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                       .-------------------------------------------------. |
-| Amy Grant         739 |                                                 | |
+| Amy Grant         761 |                                                 | |
 |                       '-------------------------------------------------' |
-| Martina McBride   438 |                            |                      |
+| Martina McBride   453 |                            |                      |
 |                       '----------------------------'                      |
-| Andy Williams     403 |                          |                        |
+| Andy Williams     421 |                          |                        |
 |                       '--------------------------'                        |
-| Colbie Caillat    124 |       |                                           |
+| Colbie Caillat    130 |       |                                           |
 |                       '-------'                                           |
-| Air Supply        113 |      |                                            |
+| Air Supply        119 |      |                                            |
 |                       '------'                                            |
-| Tony Bennett      112 |      |                                            |
+| Tony Bennett      113 |      |                                            |
 |                       '------'                                            |
-| Darlene Love       51 |  |                                                |
+| Darlene Love       57 |  |                                                |
 |                       '--'                                                |
-| Barry Manilow      27 | |                                                 |
+| Barry Manilow      28 | |                                                 |
 |                       '-'                                                 |
 | Pentatonix          7 | |                                                 |
 |                       '-'                                                 |
-| Rod Stewart         2 | |                                                 |
-|                       '-'                                                 |
 | James Taylor        2 | |                                                 |
+|                       '-'                                                 |
+| Rod Stewart         2 | |                                                 |
 |                       '-'                                                 |
 | Neil Diamond        1 | |                                                 |
 |                       '-'                                                 |

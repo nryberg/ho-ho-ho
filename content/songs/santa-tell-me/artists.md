@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Ariana Grande](/artists/ariana-grande-678625) | 68
+[Ariana Grande](/artists/ariana-grande-678625) | 69
 

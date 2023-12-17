@@ -2,11 +2,11 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                 .---------------------------------------. |
-| Frank Sinatra               785 |                                       | |
+| Frank Sinatra               815 |                                       | |
 |                                 '---------------------------------------' |
-| The Ray Conniff Singers     398 |                   |                     |
+| The Ray Conniff Singers     411 |                   |                     |
 |                                 '-------------------'                     |
-| Barry Manilow with Exposé    51 | |                                       |
+| Barry Manilow with Exposé    59 | |                                       |
 |                                 '-'                                       |
 | Dean Martin                  24 | |                                       |
 |                                 '-'                                       |

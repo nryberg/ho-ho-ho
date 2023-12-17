@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[THURL RAVENSCROFT](/artists/thurl-ravenscroft-89607) | 555
+[THURL RAVENSCROFT](/artists/thurl-ravenscroft-89607) | 575
 

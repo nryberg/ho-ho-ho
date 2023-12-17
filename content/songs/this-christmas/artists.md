@@ -1,10 +1,10 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Train](/artists/train-90187) | 555
-[Christina Aguilera](/artists/christina-aguilera-34786) | 254
-[Donny Hathaway](/artists/donny-hathaway-58582) | 244
-[Mary J. Blige](/artists/mary-j-blige-39258) | 100
+[Train](/artists/train-90187) | 581
+[Christina Aguilera](/artists/christina-aguilera-34786) | 262
+[Donny Hathaway](/artists/donny-hathaway-58582) | 256
+[Mary J. Blige](/artists/mary-j-blige-39258) | 103
 [Jeffrey Osborne](/artists/jeffrey-osborne-40238) | 24
 [John Legend](/artists/john-legend-36643) | 8
 [Seal](/artists/seal-7070) | 1

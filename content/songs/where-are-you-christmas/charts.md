@@ -2,19 +2,19 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                     .-----------------------------------. |
-| Burl Ives                       729 |                                   | |
+| Burl Ives                       757 |                                   | |
 |                                     '-----------------------------------' |
-| Dean Martin                     723 |                                  |  |
+| Dean Martin                     751 |                                  |  |
 |                                     '----------------------------------'  |
-| Harry Connick, Jr.              406 |                   |                 |
+| Harry Connick, Jr.              421 |                   |                 |
 |                                     '-------------------'                 |
-| Gene Autry                      285 |             |                       |
+| Gene Autry                      295 |             |                       |
 |                                     '-------------'                       |
-| Jack Johnson                     90 |   |                                 |
+| Jack Johnson                     92 |   |                                 |
 |                                     '---'                                 |
-| The Ray Conniff Singers          75 |  |                                  |
+| The Ray Conniff Singers          83 |  |                                  |
 |                                     '--'                                  |
-| Gene Autry with The Pinafores    40 | |                                   |
+| Gene Autry with The Pinafores    41 | |                                   |
 |                                     '-'                                   |
 | The Crystals                     29 | |                                   |
 |                                     '-'                                   |

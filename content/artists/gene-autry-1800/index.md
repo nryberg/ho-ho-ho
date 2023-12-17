@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Here Comes Santa Claus (Right Down Santa Claus Lane)](/songs/here-comes-santa-claus-right-down-santa-claus-lane) | 525
-[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 250
-[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 35
+[Here Comes Santa Claus (Right Down Santa Claus Lane)](/songs/here-comes-santa-claus-right-down-santa-claus-lane) | 543
+[Rudolph The Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 257
+[Rudolph the Red-Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 38
 

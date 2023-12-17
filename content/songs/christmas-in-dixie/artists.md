@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Alabama](/artists/alabama-62725) | 4
+[Alabama](/artists/alabama-62725) | 5
 

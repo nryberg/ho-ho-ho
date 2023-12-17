@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[José Feliciano](/artists/jose-feliciano-30507) | 846
+[José Feliciano](/artists/jose-feliciano-30507) | 872
 

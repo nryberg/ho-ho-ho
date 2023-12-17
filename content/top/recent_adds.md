@@ -9,6 +9,8 @@ ShowToc: false
 ## Songs
 Title | Artist | First Played 
 ----- | ------ | ----------- 
+[The Night Before Christmas](/songs/the-night-before-christmas) | [Carly Simon](/artists/carly-simon-33917) | 12-17
+[Calypso Noel](/songs/calypso-noel) | [Johnny Mathis](/artists/johnny-mathis-14581) | 12-16
 [Hey Santa!](/songs/hey-santa) | [Carnie And Wendy Wilson](/artists/carnie-and-wendy-wilson-56227) | 12-15
 [Christmas Through Your Eyes](/songs/christmas-through-your-eyes) | [Gloria Estefan](/artists/gloria-estefan-31888) | 12-15
 [Christmas Is Just Around The Corner (From "Cranberry Christmas")](/songs/christmas-is-just-around-the-corner-from-cranberry-christmas) | [Barry Manilow](/artists/barry-manilow-31897) | 12-15
@@ -17,6 +19,4 @@ Title | Artist | First Played
 [Celebrate Me Home](/songs/celebrate-me-home) | [Josh Groban](/artists/josh-groban-58260) | 12-14
 [Winter Wonderland](/songs/winter-wonderland) | [Neil Diamond](/artists/neil-diamond-7052) | 12-14
 [Frosty The Snowman](/songs/frosty-the-snowman) | [The Jackson 5](/artists/the-jackson-5-35053) | 12-14
-[God Rest Ye Merry Gentlemen](/songs/god-rest-ye-merry-gentlemen) | [Bing Crosby](/artists/bing-crosby-1864) | 12-13
-[The Christmas Song](/songs/the-christmas-song) | [Chicago](/artists/chicago-5663) | 12-13
 
