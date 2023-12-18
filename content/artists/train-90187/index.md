@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[This Christmas](/songs/this-christmas) | 581
+[This Christmas](/songs/this-christmas) | 597
 [Shake Up Christmas](/songs/shake-up-christmas) | 12
 

@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[*NSYNC](/artists/nsync-31882) | 44
+[*NSYNC](/artists/nsync-31882) | 45
 

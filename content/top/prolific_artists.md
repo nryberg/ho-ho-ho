@@ -9,14 +9,14 @@ ShowToc: false
 ## Songs
 Artist | Songs | Plays 
 ----- | -----: | ----: 
-[Pentatonix](/artists/pentatonix-655231) | 13 | 125
-[Bing Crosby](/artists/bing-crosby-1864) | 11 | 1550
-[Amy Grant](/artists/amy-grant-3053) | 11 | 2119
-[Andy Williams](/artists/andy-williams-16425) | 10 | 2312
-[Frank Sinatra](/artists/frank-sinatra-739) | 10 | 1653
-[Johnny Mathis](/artists/johnny-mathis-14581) | 10 | 1460
-[Josh Groban](/artists/josh-groban-58260) | 9 | 328
-[Michael Bublé](/artists/michael-buble-58319) | 8 | 630
-[Nat King Cole](/artists/nat-king-cole-3428) | 8 | 521
-[Ray Conniff](/artists/ray-conniff-104848) | 7 | 1737
+[Pentatonix](/artists/pentatonix-655231) | 13 | 130
+[Amy Grant](/artists/amy-grant-3053) | 11 | 2198
+[Bing Crosby](/artists/bing-crosby-1864) | 11 | 1596
+[Frank Sinatra](/artists/frank-sinatra-739) | 10 | 1730
+[Andy Williams](/artists/andy-williams-16425) | 10 | 2387
+[Johnny Mathis](/artists/johnny-mathis-14581) | 10 | 1510
+[Josh Groban](/artists/josh-groban-58260) | 9 | 342
+[Michael Bublé](/artists/michael-buble-58319) | 8 | 653
+[Nat King Cole](/artists/nat-king-cole-3428) | 8 | 550
+[Barry Manilow](/artists/barry-manilow-31897) | 7 | 288
 

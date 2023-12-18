@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Rudolph The Red Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 92
+[Rudolph The Red Nosed Reindeer](/songs/rudolph-the-red-nosed-reindeer) | 98
 

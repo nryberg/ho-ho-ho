@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Joy To The World](/songs/joy-to-the-world) | 55
+[Joy To The World](/songs/joy-to-the-world) | 56
 [Silver Bells](/songs/silver-bells) | 40
 

@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Eartha Kitt](/artists/eartha-kitt-21307) | 70
+[Eartha Kitt](/artists/eartha-kitt-21307) | 75
 

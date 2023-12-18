@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Kelly Clarkson](/artists/kelly-clarkson-34788) | 440
+[Kelly Clarkson](/artists/kelly-clarkson-34788) | 457
 

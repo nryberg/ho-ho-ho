@@ -2,17 +2,17 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                          .------------------------------. |
-| Ray Conniff                          168 |                              | |
+| Ray Conniff                          171 |                              | |
 |                                          '------------------------------' |
 | Harry Simeone Chorale                 23 |   |                            |
 |                                          '---'                            |
 | Bob Seger & The Silver Bullet Band     4 | |                              |
 |                                          '-'                              |
+| Carrie Underwood                       3 | |                              |
+|                                          '-'                              |
 | Josh Groban                            3 | |                              |
 |                                          '-'                              |
 | Pentatonix                             3 | |                              |
-|                                          '-'                              |
-| Carrie Underwood                       2 | |                              |
 |                                          '-'                              |
 | Bing Crosby                            1 | |                              |
 |                                          '-'                              |

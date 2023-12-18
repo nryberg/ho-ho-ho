@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Barry Manilow](/artists/barry-manilow-31897) | 1
+[Barry Manilow](/artists/barry-manilow-31897) | 2
 

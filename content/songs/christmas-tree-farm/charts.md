@@ -2,13 +2,13 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                   .-------------------------------------. |
-| David Foster                  777 |                                     | |
+| David Foster                  801 |                                     | |
 |                                   '-------------------------------------' |
-| Mannheim Steamroller          745 |                                   |   |
+| Mannheim Steamroller          769 |                                   |   |
 |                                   '-----------------------------------'   |
-| John Tesh                     313 |              |                        |
+| John Tesh                     330 |              |                        |
 |                                   '--------------'                        |
-| Percy Faith & His Orchestra    23 | |                                     |
+| Percy Faith & His Orchestra    24 | |                                     |
 |                                   '-'                                     |
 | The Four Seasons                1 | |                                     |
 |                                   '-'                                     |

@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Bon Jovi](/artists/bon-jovi-39361) | 79
+[Bon Jovi](/artists/bon-jovi-39361) | 80
 
