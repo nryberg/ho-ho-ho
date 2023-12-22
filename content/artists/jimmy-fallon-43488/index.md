@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Wrap Me Up](/songs/wrap-me-up) | 120
+[Wrap Me Up](/songs/wrap-me-up) | 146
 

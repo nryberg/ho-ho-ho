@@ -2,27 +2,27 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Ray Conniff                            488 |                            | |
+| Ray Conniff                            553 |                            | |
 |                                            '----------------------------' |
-| Bing Crosby                            455 |                          |   |
+| Bing Crosby                            526 |                          |   |
 |                                            '--------------------------'   |
-| Willie Nelson                          438 |                         |    |
+| Willie Nelson                          503 |                         |    |
 |                                            '-------------------------'    |
-| The Beach Boys                         187 |          |                   |
+| Kimberley Locke                        215 |          |                   |
 |                                            '----------'                   |
-| Kimberley Locke                        175 |         |                    |
+| The Beach Boys                         206 |         |                    |
 |                                            '---------'                    |
-| Gene Autry with The Cass County Boys   124 |      |                       |
+| Gene Autry with The Cass County Boys   137 |      |                       |
 |                                            '------'                       |
-| The Ronettes                           101 |     |                        |
-|                                            '-----'                        |
-| Jimmy Durante                           78 |   |                          |
-|                                            '---'                          |
-| Sia                                     22 | |                            |
-|                                            '-'                            |
-| Martina McBride                          1 | |                            |
+| The Ronettes                           114 |    |                         |
+|                                            '----'                         |
+| Jimmy Durante                          102 |    |                         |
+|                                            '----'                         |
+| Sia                                     25 | |                            |
 |                                            '-'                            |
 | The Jackson 5                            1 | |                            |
+|                                            '-'                            |
+| Martina McBride                          1 | |                            |
 |                                            '-'                            |
 |                                                                           |
 '---------------------------------------------------------------------------'

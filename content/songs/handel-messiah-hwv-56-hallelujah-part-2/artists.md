@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Boston Pops Orchestra](/artists/boston-pops-orchestra-136372) | 61
+[Boston Pops Orchestra](/artists/boston-pops-orchestra-136372) | 75
 

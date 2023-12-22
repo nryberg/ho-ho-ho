@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Elvis Presley](/artists/elvis-presley-1014) | 48
+[Elvis Presley](/artists/elvis-presley-1014) | 56
 

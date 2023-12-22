@@ -9,5 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [The 12 Days of Christmas](/songs/the) | 9
-[Feels like Christmas (feat. Jana Kramer)](/songs/feels-like-christmas-feat-jana-kramer) | 1
+[Feels like Christmas (feat. Jana Kramer)](/songs/feels-like-christmas-feat-jana-kramer) | 2
 

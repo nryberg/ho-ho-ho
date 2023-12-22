@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Hard Candy Christmas](/songs/hard-candy-christmas) | 1
+[Hard Candy Christmas](/songs/hard-candy-christmas) | 2
 

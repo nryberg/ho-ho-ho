@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Let There Be Peace On Earth](/songs/let-there-be-peace-on-earth) | 2
+[Let There Be Peace On Earth](/songs/let-there-be-peace-on-earth) | 3
 

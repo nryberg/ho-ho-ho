@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Carpenters](/artists/carpenters-39303) | 104
+[Carpenters](/artists/carpenters-39303) | 118
 

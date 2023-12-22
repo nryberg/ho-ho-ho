@@ -2,15 +2,15 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                          .------------------------------. |
-| Ray Conniff                          171 |                              | |
+| Ray Conniff                          186 |                              | |
 |                                          '------------------------------' |
-| Harry Simeone Chorale                 23 |   |                            |
+| Harry Simeone Chorale                 25 |   |                            |
 |                                          '---'                            |
-| Bob Seger & The Silver Bullet Band     4 | |                              |
-|                                          '-'                              |
-| Carrie Underwood                       3 | |                              |
+| Bob Seger & The Silver Bullet Band     5 | |                              |
 |                                          '-'                              |
 | Josh Groban                            3 | |                              |
+|                                          '-'                              |
+| Carrie Underwood                       3 | |                              |
 |                                          '-'                              |
 | Pentatonix                             3 | |                              |
 |                                          '-'                              |

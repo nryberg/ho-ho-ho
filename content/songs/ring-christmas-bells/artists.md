@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Ray Conniff](/artists/ray-conniff-104848) | 824
+[Ray Conniff](/artists/ray-conniff-104848) | 934
 

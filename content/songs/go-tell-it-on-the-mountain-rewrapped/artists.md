@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[for KING & COUNTRY](/artists/for-king-country-649143) | 21
+[for KING & COUNTRY](/artists/for-king-country-649143) | 26
 

@@ -8,7 +8,7 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 850
-[I Saw Mommy Kissing Santa Claus](/songs/i-saw-mommy-kissing-santa-claus) | 422
+[Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 962
+[I Saw Mommy Kissing Santa Claus](/songs/i-saw-mommy-kissing-santa-claus) | 492
 [Frosty The Snowman](/songs/frosty-the-snowman) | 1
 

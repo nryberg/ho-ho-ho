@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Beach Boys](/artists/the-beach-boys-3455) | 21
+[The Beach Boys](/artists/the-beach-boys-3455) | 25
 

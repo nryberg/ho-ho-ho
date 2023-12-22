@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Mary, Did You Know?](/songs/mary-did-you-know) | 1
+[Mary, Did You Know?](/songs/mary-did-you-know) | 2
 

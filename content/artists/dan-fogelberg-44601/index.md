@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Same Old Lang Syne](/songs/same-old-lang-syne) | 10
+[Same Old Lang Syne](/songs/same-old-lang-syne) | 12
 

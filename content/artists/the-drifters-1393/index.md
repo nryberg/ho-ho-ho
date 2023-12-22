@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[White Christmas (feat. Clyde McPhatter & Bill Pinkney)](/songs/white-christmas-feat-clyde-mcphatter-bill-pinkney) | 530
+[White Christmas (feat. Clyde McPhatter & Bill Pinkney)](/songs/white-christmas-feat-clyde-mcphatter-bill-pinkney) | 610
 

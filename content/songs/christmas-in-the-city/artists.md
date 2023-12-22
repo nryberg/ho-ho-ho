@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Elizabeth Chan](/artists/elizabeth-chan-793805) | 1
+[Elizabeth Chan](/artists/elizabeth-chan-793805) | 2
 

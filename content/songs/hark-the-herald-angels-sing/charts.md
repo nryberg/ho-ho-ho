@@ -2,17 +2,19 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Percy Faith & His Orchestra & Chorus   163 |                            | |
+| Percy Faith & His Orchestra & Chorus   191 |                            | |
 |                                            '----------------------------' |
-| Amy Grant                              123 |                    |         |
-|                                            '--------------------'         |
-| Carrie Underwood                        53 |        |                     |
+| Amy Grant                              156 |                      |       |
+|                                            '----------------------'       |
+| Carrie Underwood                        63 |        |                     |
 |                                            '--------'                     |
-| Nat King Cole                            8 | |                            |
+| Nat King Cole                            9 | |                            |
+|                                            '-'                            |
+| Bing Crosby                              1 | |                            |
 |                                            '-'                            |
 | Frank Sinatra                            1 | |                            |
 |                                            '-'                            |
-| Bing Crosby                              1 | |                            |
+| Mannheim Steamroller                     1 | |                            |
 |                                            '-'                            |
 |                                                                           |
 '---------------------------------------------------------------------------'

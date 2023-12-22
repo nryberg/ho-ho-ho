@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[This Christmas](/songs/this-christmas) | 1
+[This Christmas](/songs/this-christmas) | 2
 [Kiss from a Rose](/songs/kiss-from-a-rose) | 1
 

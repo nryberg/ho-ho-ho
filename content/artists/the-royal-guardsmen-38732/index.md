@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Snoopy's Christmas (1999 Digital Remaster)](/songs/snoopys-christmas) | 80
+[Snoopy's Christmas (1999 Digital Remaster)](/songs/snoopys-christmas) | 93
 

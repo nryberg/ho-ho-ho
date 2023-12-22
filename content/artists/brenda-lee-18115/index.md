@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree) | 708
-[Jingle Bell Rock](/songs/jingle-bell-rock) | 675
+[Rockin' Around The Christmas Tree](/songs/rockin-around-the-christmas-tree) | 804
+[Jingle Bell Rock](/songs/jingle-bell-rock) | 764
 

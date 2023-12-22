@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Feliz Navidad](/songs/feliz-navidad) | 905
+[Feliz Navidad](/songs/feliz-navidad) | 1020
 

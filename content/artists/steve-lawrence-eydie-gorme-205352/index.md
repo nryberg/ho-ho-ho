@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Happy Holiday](/songs/happy-holiday) | 43
+[Happy Holiday](/songs/happy-holiday) | 49
 

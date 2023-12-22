@@ -9,5 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [White Christmas](/songs/white-christmas) | 7
-[Mele Kalikimaka](/songs/mele-kalikimaka) | 1
+[Mele Kalikimaka](/songs/mele-kalikimaka) | 2
 

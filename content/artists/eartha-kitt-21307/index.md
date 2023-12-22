@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Santa Baby](/songs/santa-baby) | 75
+[Santa Baby](/songs/santa-baby) | 82
 
