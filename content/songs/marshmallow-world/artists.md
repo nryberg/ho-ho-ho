@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Darlene Love](/artists/darlene-love-118320) | 4
+[Darlene Love](/artists/darlene-love-118320) | 5
 

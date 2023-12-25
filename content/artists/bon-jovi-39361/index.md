@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Christmas Isn’t Christmas](/songs/christmas-isnt-christmas) | 85
+[Christmas Isn’t Christmas](/songs/christmas-isnt-christmas) | 95
 

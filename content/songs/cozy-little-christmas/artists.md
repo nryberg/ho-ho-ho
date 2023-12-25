@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Katy Perry](/artists/katy-perry-35141) | 64
+[Katy Perry](/artists/katy-perry-35141) | 69
 

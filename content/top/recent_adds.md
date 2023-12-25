@@ -9,14 +9,14 @@ ShowToc: false
 ## Songs
 Title | Artist | First Played 
 ----- | ------ | ----------- 
-[Joy To The World](/songs/joy-to-the-world) | [Nat King Cole](/artists/nat-king-cole-3428) | 12-21
-[I've Got My Love To Keep Me Warm](/songs/ive-got-my-love-to-keep-me-warm) | [Dean Martin](/artists/dean-martin-6555) | 12-21
-[Hark! the Herald Angels Sing](/songs/hark-the-herald-angels-sing) | [Mannheim Steamroller](/artists/mannheim-steamroller-39605) | 12-20
-[The River](/songs/the-river) | [Delta Goodrem](/artists/delta-goodrem-41434) | 12-20
-[This Gift](/songs/this-gift) | [98º](/artists/98o-42159) | 12-19
-[My Favorite Things](/songs/my-favorite-things) | [Audra McDonald;Carrie Underwood](/artists/audra-mcdonaldcarrie-underwood-30082891) | 12-19
-[Grandma Got Run Over By a Reindeer](/songs/grandma-got-run-over-by-a-reindeer) | [Elmo & Patsy](/artists/elmo-patsy-118701) | 12-18
-[Home](/songs/home) | [Blake Shelton](/artists/blake-shelton-58018) | 12-18
-[Caroling, Caroling](/songs/caroling-caroling) | [Natalie Cole](/artists/natalie-cole-30494) | 12-18
-[Santa Claus is Coming to Town](/songs/santa-claus-is-coming-to-town) | [Pentatonix](/artists/pentatonix-655231) | 12-18
+[A Marshmallow World](/songs/a-marshmallow-world) | [Darlene Love](/artists/darlene-love-118320) | 12-25
+[No More Blue Christmas'](/songs/no-more-blue-christmas) | [Natalie Cole](/artists/natalie-cole-30494) | 12-25
+[Miss You Most (At Christmas Time)](/songs/miss-you-most-at-christmas-time) | [Mariah Carey](/artists/mariah-carey-31885) | 12-25
+[Away in a Manger](/songs/away-in-a-manger) | [Nat King Cole](/artists/nat-king-cole-3428) | 12-25
+[That Holiday Feeling](/songs/that-holiday-feeling) | [Steve Lawrence & Eydie Gorme](/artists/steve-lawrence-eydie-gorme-205352) | 12-24
+[Ave Maria](/songs/ave-maria) | [Celine Dion](/artists/celine-dion-39068) | 12-24
+[Carol of the Bells](/songs/carol-of-the-bells) | [George Winston](/artists/george-winston-90240) | 12-24
+[Mistletoe](/songs/mistletoe) | [Colbie Caillat](/artists/colbie-caillat-33213) | 12-24
+[It Came Upon a Midnight Clear](/songs/it-came-upon-a-midnight-clear) | [Daryl Hall & John Oates](/artists/daryl-hall-john-oates-645736) | 12-24
+[With Bells On](/songs/with-bells-on) | [Kenny Rogers](/artists/kenny-rogers-4261) | 12-24
 

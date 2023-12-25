@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Jimmy Fallon](/artists/jimmy-fallon-43488) | 146
+[Jimmy Fallon](/artists/jimmy-fallon-43488) | 176
 

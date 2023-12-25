@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Christmas Party for Two](/songs/christmas-party-for-two) | 55
+[Christmas Party for Two](/songs/christmas-party-for-two) | 60
 

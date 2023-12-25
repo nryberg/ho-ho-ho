@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Christmas in Dixie](/songs/christmas-in-dixie) | 6
+[Christmas in Dixie](/songs/christmas-in-dixie) | 8
 

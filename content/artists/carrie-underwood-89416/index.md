@@ -8,8 +8,8 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Do You Hear What I Hear](/songs/do-you-hear-what-i-hear) | 132
-[Hark! The Herald Angels Sing](/songs/hark-the-herald-angels-sing) | 63
+[Do You Hear What I Hear](/songs/do-you-hear-what-i-hear) | 143
+[Hark! The Herald Angels Sing](/songs/hark-the-herald-angels-sing) | 71
+[Mary, Did You Know?](/songs/mary-did-you-know) | 3
 [Little Drummer Boy](/songs/little-drummer-boy) | 3
-[Mary, Did You Know?](/songs/mary-did-you-know) | 2
 

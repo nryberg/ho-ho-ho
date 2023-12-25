@@ -2,19 +2,21 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Lindsey Stirling                       236 |                            | |
+| Lindsey Stirling                       264 |                            | |
 |                                            '----------------------------' |
-| Percy Faith & His Orchestra & Chorus   217 |                         |    |
+| Percy Faith & His Orchestra & Chorus   240 |                         |    |
 |                                            '-------------------------'    |
-| Faith Hill                             153 |                 |            |
-|                                            '-----------------'            |
-| Whitney Houston                         56 |     |                        |
+| Faith Hill                             159 |                |             |
+|                                            '----------------'             |
+| Anne Murray                             62 |     |                        |
 |                                            '-----'                        |
-| Anne Murray                             56 |     |                        |
+| Whitney Houston                         60 |     |                        |
 |                                            '-----'                        |
-| Pentatonix                              12 | |                            |
+| Nat King Cole                           14 | |                            |
 |                                            '-'                            |
-| Nat King Cole                            3 | |                            |
+| Pentatonix                              14 | |                            |
+|                                            '-'                            |
+| Mannheim Steamroller                     1 | |                            |
 |                                            '-'                            |
 |                                                                           |
 '---------------------------------------------------------------------------'

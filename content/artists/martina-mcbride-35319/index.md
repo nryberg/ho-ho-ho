@@ -8,9 +8,9 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Winter Wonderland](/songs/winter-wonderland) | 533
-[O Holy Night](/songs/o-holy-night) | 126
-[Do You Hear What I Hear](/songs/do-you-hear-what-i-hear) | 76
-[Silver Bells](/songs/silver-bells) | 3
+[Winter Wonderland](/songs/winter-wonderland) | 570
+[O Holy Night](/songs/o-holy-night) | 142
+[Do You Hear What I Hear](/songs/do-you-hear-what-i-hear) | 87
+[Silver Bells](/songs/silver-bells) | 4
 [Frosty The Snowman](/songs/frosty-the-snowman) | 1
 

@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[The Royal Guardsmen](/artists/the-royal-guardsmen-38732) | 93
+[The Royal Guardsmen](/artists/the-royal-guardsmen-38732) | 100
 

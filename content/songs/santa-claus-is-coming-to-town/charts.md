@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                       .-------------------------------------------------. |
-| The Jackson 5     962 |                                                 | |
+| The Jackson 5    1042 |                                                 | |
 |                       '-------------------------------------------------' |
-| The Crystals      542 |                           |                       |
+| The Crystals      602 |                           |                       |
 |                       '---------------------------'                       |
-| Barry Manilow     173 |       |                                           |
+| Barry Manilow     188 |        |                                          |
+|                       '--------'                                          |
+| Tony Bennett      171 |       |                                           |
 |                       '-------'                                           |
-| Tony Bennett      157 |       |                                           |
-|                       '-------'                                           |
-| Wilson Phillips    59 |  |                                                |
+| Wilson Phillips    69 |  |                                                |
 |                       '--'                                                |
-| Carpenters          4 | |                                                 |
+| James Taylor        5 | |                                                 |
 |                       '-'                                                 |
-| James Taylor        4 | |                                                 |
+| Carpenters          4 | |                                                 |
 |                       '-'                                                 |
 | Burl Ives           2 | |                                                 |
 |                       '-'                                                 |
-| Michael Bublé       1 | |                                                 |
+| Michael Bublé       2 | |                                                 |
 |                       '-'                                                 |
 | Pentatonix          1 | |                                                 |
 |                       '-'                                                 |

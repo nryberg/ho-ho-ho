@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Andy Williams](/artists/andy-williams-16425) | 123
+[Andy Williams](/artists/andy-williams-16425) | 136
 

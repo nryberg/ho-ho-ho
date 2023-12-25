@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Augie Rios](/artists/augie-rios-199353) | 12
+[Augie Rios](/artists/augie-rios-199353) | 13
 

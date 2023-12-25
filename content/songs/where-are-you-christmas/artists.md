@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Faith Hill](/artists/faith-hill-58019) | 627
+[Faith Hill](/artists/faith-hill-58019) | 694
 

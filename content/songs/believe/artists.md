@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Josh Groban](/artists/josh-groban-58260) | 15
+[Josh Groban](/artists/josh-groban-58260) | 17
 

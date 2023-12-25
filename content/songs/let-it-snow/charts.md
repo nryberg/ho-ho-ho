@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                          .----------------------------------------------. |
-| Dean Martin          924 |                                              | |
+| Dean Martin         1020 |                                              | |
 |                          '----------------------------------------------' |
-| Harry Connick, Jr.   545 |                          |                     |
+| Harry Connick, Jr.   588 |                          |                     |
 |                          '--------------------------'                     |
-| Andy Williams        503 |                        |                       |
+| Andy Williams        550 |                        |                       |
 |                          '------------------------'                       |
-| Michael Bublé        387 |                  |                             |
+| Michael Bublé        430 |                  |                             |
 |                          '------------------'                             |
-| Aaron Neville        134 |     |                                          |
+| Aaron Neville        149 |     |                                          |
 |                          '-----'                                          |
 | RICOCHET              29 | |                                              |
 |                          '-'                                              |
 | Michael Bolton        11 | |                                              |
 |                          '-'                                              |
-| Gloria Estefan         4 | |                                              |
+| Gloria Estefan         5 | |                                              |
 |                          '-'                                              |
-| Rod Stewart            3 | |                                              |
+| Rod Stewart            4 | |                                              |
 |                          '-'                                              |
 | Chicago                1 | |                                              |
 |                          '-'                                              |

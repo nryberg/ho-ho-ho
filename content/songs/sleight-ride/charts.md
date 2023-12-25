@@ -2,23 +2,23 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                          .----------------------------------------------. |
-| Dean Martin          924 |                                              | |
+| Dean Martin         1020 |                                              | |
 |                          '----------------------------------------------' |
-| Harry Connick, Jr.   545 |                          |                     |
+| Harry Connick, Jr.   588 |                          |                     |
 |                          '--------------------------'                     |
-| Andy Williams        503 |                        |                       |
+| Andy Williams        550 |                        |                       |
 |                          '------------------------'                       |
-| Aaron Neville        134 |     |                                          |
+| Aaron Neville        149 |     |                                          |
 |                          '-----'                                          |
-| Michael Bublé         57 | |                                              |
-|                          '-'                                              |
+| Michael Bublé         66 |  |                                             |
+|                          '--'                                             |
 | RICOCHET              29 | |                                              |
 |                          '-'                                              |
 | Michael Bolton        11 | |                                              |
 |                          '-'                                              |
-| Gloria Estefan         4 | |                                              |
+| Gloria Estefan         5 | |                                              |
 |                          '-'                                              |
-| Rod Stewart            3 | |                                              |
+| Rod Stewart            4 | |                                              |
 |                          '-'                                              |
 | Pentatonix             1 | |                                              |
 |                          '-'                                              |

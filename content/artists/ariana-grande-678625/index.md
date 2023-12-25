@@ -8,6 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Santa Tell Me](/songs/santa-tell-me) | 76
-[Last Christmas](/songs/last-christmas) | 70
+[Santa Tell Me](/songs/santa-tell-me) | 87
+[Last Christmas](/songs/last-christmas) | 77
 

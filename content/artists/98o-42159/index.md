@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[This Gift](/songs/this-gift) | 1
+[This Gift](/songs/this-gift) | 2
 

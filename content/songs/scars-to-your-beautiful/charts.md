@@ -2,21 +2,21 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                            .----------------------------. |
-| Ray Conniff                            553 |                            | |
+| Ray Conniff                            597 |                            | |
 |                                            '----------------------------' |
-| Bing Crosby                            526 |                          |   |
+| Bing Crosby                            567 |                          |   |
 |                                            '--------------------------'   |
-| Willie Nelson                          503 |                         |    |
+| Willie Nelson                          548 |                         |    |
 |                                            '-------------------------'    |
-| Kimberley Locke                        215 |          |                   |
+| Kimberley Locke                        240 |          |                   |
 |                                            '----------'                   |
-| The Beach Boys                         206 |         |                    |
-|                                            '---------'                    |
-| Gene Autry with The Cass County Boys   137 |      |                       |
+| The Beach Boys                         228 |          |                   |
+|                                            '----------'                   |
+| Gene Autry with The Cass County Boys   156 |      |                       |
 |                                            '------'                       |
-| The Ronettes                           114 |    |                         |
-|                                            '----'                         |
-| Jimmy Durante                          102 |    |                         |
+| The Ronettes                           125 |     |                        |
+|                                            '-----'                        |
+| Jimmy Durante                          122 |    |                         |
 |                                            '----'                         |
 | Martina McBride                          1 | |                            |
 |                                            '-'                            |

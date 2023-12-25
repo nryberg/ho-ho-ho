@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Frank Sinatra](/artists/frank-sinatra-739) | 10
+[Frank Sinatra](/artists/frank-sinatra-739) | 11
 

@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[It's the Most Wonderful Time of the Year](/songs/its-the-most-wonderful-time-of-the-year) | 286
+[It's the Most Wonderful Time of the Year](/songs/its-the-most-wonderful-time-of-the-year) | 320
 

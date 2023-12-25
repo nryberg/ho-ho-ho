@@ -8,5 +8,6 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Winter Wonderland](/songs/winter-wonderland) | 151
+[Winter Wonderland](/songs/winter-wonderland) | 170
+[Mistletoe](/songs/mistletoe) | 1
 

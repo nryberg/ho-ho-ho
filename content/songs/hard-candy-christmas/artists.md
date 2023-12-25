@@ -1,5 +1,5 @@
 ## Artists
 Artists | Plays 
 ----- | -----: 
-[Dolly Parton](/artists/dolly-parton-2614) | 2
+[Dolly Parton](/artists/dolly-parton-2614) | 4
 

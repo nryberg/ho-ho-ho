@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[White Christmas](/songs/white-christmas) | 101
+[White Christmas](/songs/white-christmas) | 117
 

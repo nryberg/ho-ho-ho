@@ -2,14 +2,14 @@
 .---------------------------------------------------------------------------.
 |                                                                           |
 |                                         .-------------------------------. |
-| Brett Eldredge                      283 |                               | |
+| Brett Eldredge                      294 |                               | |
 |                                         '-------------------------------' |
-| Dean Martin                         165 |                 |               |
-|                                         '-----------------'               |
-| Vanessa Williams & Bobby Caldwell    53 |    |                            |
-|                                         '----'                            |
-| Idina Menzel                         49 |    |                            |
-|                                         '----'                            |
+| Dean Martin                         179 |                  |              |
+|                                         '------------------'              |
+| Idina Menzel                         58 |     |                           |
+|                                         '-----'                           |
+| Vanessa Williams & Bobby Caldwell    57 |     |                           |
+|                                         '-----'                           |
 | Rod Stewart                           1 | |                               |
 |                                         '-'                               |
 | Seth MacFarlane & Sara Bareilles      1 | |                               |
