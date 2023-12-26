@@ -9,5 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [Santa Claus Is Coming To Town](/songs/santa-claus-is-coming-to-town) | 69
-[Silent Night](/songs/silent-night) | 37
+[Silent Night](/songs/silent-night) | 39
 

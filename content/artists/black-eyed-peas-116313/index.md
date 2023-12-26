@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[I Gotta Feeling](/songs/i-gotta-feeling) | 1
+[I Gotta Feeling](/songs/i-gotta-feeling) | 2
 

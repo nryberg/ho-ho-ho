@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Straight Up](/songs/straight-up) | 1
+[Straight Up](/songs/straight-up) | 3
 

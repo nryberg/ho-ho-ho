@@ -8,5 +8,5 @@ ShowToc: false
 ## Songs
 Title | Plays 
 ----- | -----: 
-[Home](/songs/home) | 2
+[Home](/songs/home) | 3
 

@@ -9,5 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [Little Drummer Boy](/songs/little-drummer-boy) | 5
-[Old Time Rock & Roll](/songs/old-time-rock-roll) | 1
+[Old Time Rock & Roll](/songs/old-time-rock-roll) | 3
 

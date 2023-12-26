@@ -9,4 +9,5 @@ ShowToc: false
 Title | Plays 
 ----- | -----: 
 [Like It's Christmas](/songs/like-its-christmas) | 1
+[Sucker](/songs/sucker) | 1
 
